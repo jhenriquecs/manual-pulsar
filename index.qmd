@@ -1,0 +1,30 @@
+# Apresentação {.unnumbered}
+
+O WhatsApp é o aplicativo de mensagens mais usado no Brasil. Com ele é possível conversar por texto, mandar áudios, fotos, vídeos e documentos, fazer ligações de voz e vídeo, participar de grupos e acompanhar as novidades dos contatos.
+
+Este manual apresenta as principais funções do WhatsApp, uma a uma, com imagens reais das telas. As capturas foram feitas no **WhatsApp Web**, a versão que funciona no navegador do computador. Sempre que o caminho for diferente no celular, o texto indica os passos para o aplicativo do telefone.
+
+## Como usar este manual {.unnumbered}
+
+Cada capítulo trata de um grupo de funções e pode ser lido sozinho. Quem está começando deve seguir a ordem dos capítulos; quem já usa o WhatsApp pode ir direto ao assunto pelo sumário.
+
+Os passos aparecem numerados. Os nomes de botões e menus estão em **negrito**, exatamente como aparecem na tela. As teclas do computador aparecem assim: <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>N</kbd>.
+
+::: {.callout-note}
+## Sobre as imagens
+
+Para proteger a privacidade, nomes, fotos, números de telefone e o conteúdo das conversas foram borrados em todas as capturas. Os menus, botões e textos do próprio aplicativo continuam visíveis.
+:::
+
+## Organização {.unnumbered}
+
+| Parte | O que você vai aprender |
+|---|---|
+| Primeiros passos | O que é o WhatsApp, como entrar no WhatsApp Web, a tela inicial e o perfil |
+| Conversas | Iniciar conversas, escrever, mandar emojis, áudios e arquivos, reagir, responder e organizar |
+| Grupos, comunidades e canais | Criar grupos, entender comunidades e seguir canais |
+| Status e ligações | Publicar status e fazer chamadas de voz e vídeo |
+| Configurações e segurança | Ajustar notificações, aparência, privacidade e proteger a conta |
+| Apêndices | Atalhos do teclado e glossário de termos |
+
+: Partes do manual {.striped}

@@ -1,0 +1,31 @@
+# Comunidades {#sec-comunidades}
+
+Uma comunidade reúne vários grupos ligados a um mesmo assunto, como os grupos de uma escola, de um condomínio ou de uma igreja. Ela tem um **grupo de avisos**, onde só os administradores escrevem e todos os membros recebem as mensagens.
+
+Clique em **Comunidades**, na barra lateral, para ver as comunidades das quais você participa (@fig-comunidades).
+
+![Seção Comunidades. Os nomes e as fotos das comunidades foram borrados.](../images/comunidades.jpg){#fig-comunidades}
+
+## Diferença entre grupo e comunidade
+
+| | Grupo | Comunidade |
+|---|---|---|
+| O que é | Uma conversa com várias pessoas | Um conjunto de grupos relacionados |
+| Avisos para todos | Mensagem comum no grupo | Grupo de avisos, onde só admins escrevem |
+| Tamanho | Até 1.024 participantes | Vários grupos, com milhares de membros |
+| Exemplo | Grupo da família | Comunidade da escola, com um grupo por turma |
+
+: Grupos e comunidades {.striped}
+
+## Criar uma comunidade
+
+1. Clique em **Comunidades**, na barra lateral, e depois no **+** do alto, ou use **Nova conversa** > **Nova comunidade**.
+2. Clique em **Começar**.
+3. Escreva o nome e a descrição da comunidade e escolha uma foto.
+4. Clique na seta verde.
+5. Crie grupos novos ou adicione grupos que você já administra.
+6. Clique no botão de confirmação.
+
+## Participar de uma comunidade
+
+Normalmente você entra em uma comunidade por um link de convite enviado pelo administrador. Ao abrir o link, clique em **Entrar na comunidade**. Dentro dela, escolha de quais grupos quer participar; o grupo de avisos é incluído automaticamente.

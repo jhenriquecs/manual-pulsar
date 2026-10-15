@@ -1,0 +1,64 @@
+# Glossário {#sec-glossario}
+
+Administrador (admin)
+: Participante que pode gerenciar um grupo ou comunidade: adicionar e remover pessoas e mudar as configurações.
+
+Arquivar
+: Esconder uma conversa da lista principal sem apagá-la.
+
+Áudio ou mensagem de voz
+: Mensagem gravada com a voz, enviada pelo botão do microfone.
+
+Canal
+: Perfil que publica novidades para muitos seguidores; só o dono publica.
+
+Comunidade
+: Conjunto de grupos ligados a um mesmo assunto, com um grupo de avisos.
+
+Criptografia de ponta a ponta
+: Proteção que faz com que só quem envia e quem recebe consiga ler a mensagem.
+
+Emoji
+: Pequena figura que expressa um sentimento ou uma ideia.
+
+Encaminhar
+: Reenviar uma mensagem recebida para outra conversa.
+
+Enquete
+: Pergunta com opções de resposta para os participantes votarem.
+
+Figurinha (*sticker*)
+: Imagem maior que um emoji, enviada sozinha, sem legenda.
+
+GIF
+: Pequena animação sem som.
+
+Link
+: Endereço de um site, que abre ao ser clicado.
+
+Mensagens temporárias
+: Mensagens que somem sozinhas depois de um prazo escolhido.
+
+PIN
+: Senha de 6 números da verificação em duas etapas.
+
+QR code
+: Código quadrado lido pela câmera do celular; usado para entrar no WhatsApp Web.
+
+Recado
+: Frase curta que aparece no perfil.
+
+Status
+: Fotos, vídeos e textos que ficam visíveis para os contatos por 24 horas.
+
+Tiques
+: Sinais ao lado do horário da mensagem que mostram se ela foi enviada, entregue e lida.
+
+Verificação em duas etapas
+: Proteção extra que pede um PIN ao registrar o número em outro celular.
+
+Visto por último
+: Horário em que a pessoa usou o WhatsApp pela última vez.
+
+WhatsApp Web
+: Versão do WhatsApp que funciona no navegador do computador.

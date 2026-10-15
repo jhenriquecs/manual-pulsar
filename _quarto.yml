@@ -1,0 +1,67 @@
+project:
+  type: book
+
+book:
+  title: "Manual do WhatsApp"
+  subtitle: "Guia completo das funções do WhatsApp Web"
+  author: "José Henrique Costa Santos"
+  date: "10/10/2026"
+  language: pt-BR
+  chapters:
+    - index.qmd
+    - part: "Primeiros passos"
+      chapters:
+        - basico/conhecendo.qmd
+        - basico/tela-inicial.qmd
+        - basico/perfil.qmd
+    - part: "Conversas"
+      chapters:
+        - conversas/nova-conversa.qmd
+        - conversas/mensagens.qmd
+        - conversas/anexos.qmd
+        - conversas/opcoes-mensagem.qmd
+        - conversas/opcoes-conversa.qmd
+        - conversas/organizar.qmd
+    - part: "Grupos, comunidades e canais"
+      chapters:
+        - grupos/grupos.qmd
+        - grupos/comunidades.qmd
+        - grupos/canais.qmd
+    - part: "Status e ligações"
+      chapters:
+        - status/status.qmd
+        - status/ligacoes.qmd
+    - part: "Configurações e segurança"
+      chapters:
+        - configuracoes/configuracoes.qmd
+        - configuracoes/privacidade.qmd
+        - configuracoes/seguranca.qmd
+    - references.qmd
+  appendices:
+    - apendices/atalhos.qmd
+    - apendices/glossario.qmd
+
+bibliography: references.bib
+
+lang: pt-BR
+
+fig-cap-location: bottom
+
+format:
+  html:
+    theme:
+      - cosmo
+      - estilo.scss
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    callout-appearance: simple
+    lightbox: true
+  pdf:
+    documentclass: scrreprt
+    papersize: a4
+    toc: true
+    number-sections: true
+    colorlinks: false
+    fig-pos: "H"
+    include-in-header: header.tex

@@ -1,0 +1,56 @@
+# Ligações de voz e vídeo {#sec-ligacoes}
+
+O WhatsApp faz ligações pela internet, sem custo de minutos da operadora. As chamadas podem ser só de voz ou com vídeo, com uma pessoa ou com até 32 pessoas.
+
+Clique em **Ligações**, na barra lateral, para abrir a tela da @fig-ligacoes. À esquerda fica o histórico de chamadas; à direita, os botões para iniciar uma nova ligação.
+
+![Seção Ligações. O histórico de chamadas foi borrado.](../images/ligacoes.jpg){#fig-ligacoes}
+
+## Fazer uma ligação
+
+Há dois caminhos:
+
+**Pela conversa**
+
+1. Abra a conversa com a pessoa.
+2. Clique no ícone de câmera com setinha, no cabeçalho.
+3. Escolha **Ligação de voz** ou **Ligação de vídeo**.
+
+**Pela seção Ligações**
+
+1. Clique em **Ligações**, na barra lateral.
+2. Clique em **Iniciar ligação**.
+3. Escolha uma ou mais pessoas e o tipo de ligação.
+
+Na primeira ligação, o navegador pede permissão para usar o microfone e a câmera. Clique em **Permitir**.
+
+## Durante a ligação
+
+Os botões na parte de baixo da janela da chamada permitem:
+
+- ligar e desligar o **microfone** (modo mudo);
+- ligar e desligar a **câmera**;
+- **compartilhar a tela** do computador;
+- **reagir** com emojis e **levantar a mão**;
+- **adicionar pessoas** à chamada;
+- **encerrar** a ligação, no botão vermelho.
+
+## Outras opções
+
+| Botão | O que faz |
+|---|---|
+| **Novo link de ligação** | Cria um link para uma chamada; quem receber o link entra clicando nele |
+| **Ligar para um telefone** | Abre um teclado numérico para ligar para um número que use WhatsApp |
+| Telefone com **+**, no alto | Inicia uma nova ligação escolhendo os contatos |
+
+: Opções da seção Ligações {.striped}
+
+## Atender uma ligação
+
+Quando alguém liga, aparece um aviso na tela com os botões **Aceitar** e **Recusar**. Para isso funcionar com o navegador em segundo plano, as notificações precisam estar ativadas (@sec-configuracoes).
+
+::: {.callout-tip}
+## Internet fraca
+
+Se a imagem travar, desligue a câmera e continue só com a voz. A ligação de voz usa bem menos internet.
+:::

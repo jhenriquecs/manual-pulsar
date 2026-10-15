@@ -1,0 +1,62 @@
+# Segurança da conta {#sec-seguranca}
+
+As conversas do WhatsApp são protegidas por **criptografia de ponta a ponta**: só quem envia e quem recebe consegue ler as mensagens. Mesmo assim, a conta pode ser roubada se alguém conseguir o seu código de verificação ou se o seu celular ficar desprotegido. Este capítulo reúne as principais defesas.
+
+## Verificação em duas etapas
+
+A verificação em duas etapas cria uma senha de 6 números (PIN) que é pedida sempre que alguém tenta registrar o seu número em outro celular. Mesmo que um golpista consiga o código do SMS, ele não entra sem o PIN. É uma das proteções mais importantes [@guiaifb2026].
+
+Ela é configurada no celular:
+
+1. Abra o WhatsApp no celular e vá em **Configurações** (três pontinhos > **Configurações** no Android).
+2. Toque em **Conta** > **Verificação em duas etapas**.
+3. Toque em **Ativar**.
+4. Crie um PIN de 6 números e repita para confirmar.
+5. Informe um e-mail e confirme. Ele serve para redefinir o PIN se você esquecer.
+
+::: {.callout-important}
+## Guarde o PIN
+
+Escolha um PIN fácil para você e difícil para os outros. Evite datas de nascimento e sequências como `123456`. O WhatsApp pede o PIN de tempos em tempos para você não esquecer.
+:::
+
+## Chaves de acesso
+
+No celular, em **Configurações** > **Conta** > **Chaves de acesso**, é possível entrar no WhatsApp usando a digital, o rosto ou o bloqueio de tela do aparelho, em vez do código por SMS.
+
+## Bloqueio do app
+
+O bloqueio do app pede uma senha para abrir o WhatsApp, protegendo as conversas de quem usa o mesmo aparelho.
+
+- **No computador**: menu principal (três pontinhos) > **Bloqueio do app**, ou **Privacidade** > **Bloqueio do app**. Crie uma senha. Para trancar na hora, use o mesmo menu e escolha **Bloquear**.
+- **No celular**: **Configurações** > **Privacidade** > **Bloqueio do app**, usando a digital ou o rosto.
+
+## Aparelhos conectados
+
+No celular, **Aparelhos conectados** mostra todos os computadores e tablets ligados à sua conta, com a data do último uso. Confira essa lista de vez em quando. Se aparecer um aparelho que você não reconhece, toque nele e escolha **Desconectar**.
+
+## Como se proteger de golpes
+
+| Situação | Como agir |
+|---|---|
+| Alguém pede o código de 6 números que chegou por SMS | Nunca envie. Nenhuma empresa séria pede esse código |
+| Um "parente" com número novo pede dinheiro com urgência | Ligue para o número antigo da pessoa ou faça uma pergunta que só ela saberia |
+| Mensagem com prêmio, promoção ou link estranho | Não clique. Procure a informação no site oficial da empresa |
+| Pedido de Pix para pagar conta ou dívida inesperada | Confirme por outro meio antes de pagar |
+| Grupo desconhecido com ofertas de investimento | Saia do grupo, denuncie e ajuste quem pode adicionar você a grupos |
+
+: Golpes comuns e como agir {.striped}
+
+::: {.callout-warning}
+## Na dúvida, desconfie
+
+Golpistas usam pressa e emoção para enganar. Antes de enviar dinheiro ou dados, pare, desligue e confirme com a pessoa por uma ligação ou pessoalmente.
+:::
+
+## Se a sua conta for roubada
+
+1. Reinstale ou abra o WhatsApp no seu celular e entre com o seu número. Ao confirmar o código do SMS, o invasor é desconectado.
+2. Se o WhatsApp pedir o PIN da verificação em duas etapas e você não o criou, aguarde o prazo indicado e tente de novo.
+3. Avise os seus contatos por outro meio de que a conta foi invadida.
+4. Escreva para o suporte pela Central de Ajuda do WhatsApp, informando o número com o código do país.
+5. Depois de recuperar a conta, ative a verificação em duas etapas.
