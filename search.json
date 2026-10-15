@@ -1,0 +1,1186 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Manual do WhatsApp",
+    "section": "",
+    "text": "Apresentação\nO WhatsApp é o aplicativo de mensagens mais usado no Brasil. Com ele é possível conversar por texto, mandar áudios, fotos, vídeos e documentos, fazer ligações de voz e vídeo, participar de grupos e acompanhar as novidades dos contatos.\nEste manual apresenta as principais funções do WhatsApp, uma a uma, com imagens reais das telas. As capturas foram feitas no WhatsApp Web, a versão que funciona no navegador do computador. Sempre que o caminho for diferente no celular, o texto indica os passos para o aplicativo do telefone.",
+    "crumbs": [
+      "Apresentação"
+    ]
+  },
+  {
+    "objectID": "index.html#como-usar-este-manual",
+    "href": "index.html#como-usar-este-manual",
+    "title": "Manual do WhatsApp",
+    "section": "Como usar este manual",
+    "text": "Como usar este manual\nCada capítulo trata de um grupo de funções e pode ser lido sozinho. Quem está começando deve seguir a ordem dos capítulos; quem já usa o WhatsApp pode ir direto ao assunto pelo sumário.\nOs passos aparecem numerados. Os nomes de botões e menus estão em negrito, exatamente como aparecem na tela. As teclas do computador aparecem assim: Ctrl + Alt + N.\n\n\n\n\n\n\nNotaSobre as imagens\n\n\n\nPara proteger a privacidade, nomes, fotos, números de telefone e o conteúdo das conversas foram borrados em todas as capturas. Os menus, botões e textos do próprio aplicativo continuam visíveis.",
+    "crumbs": [
+      "Apresentação"
+    ]
+  },
+  {
+    "objectID": "index.html#organização",
+    "href": "index.html#organização",
+    "title": "Manual do WhatsApp",
+    "section": "Organização",
+    "text": "Organização\n\nPartes do manual\n\n\n\n\n\n\nParte\nO que você vai aprender\n\n\n\n\nPrimeiros passos\nO que é o WhatsApp, como entrar no WhatsApp Web, a tela inicial e o perfil\n\n\nConversas\nIniciar conversas, escrever, mandar emojis, áudios e arquivos, reagir, responder e organizar\n\n\nGrupos, comunidades e canais\nCriar grupos, entender comunidades e seguir canais\n\n\nStatus e ligações\nPublicar status e fazer chamadas de voz e vídeo\n\n\nConfigurações e segurança\nAjustar notificações, aparência, privacidade e proteger a conta\n\n\nApêndices\nAtalhos do teclado e glossário de termos",
+    "crumbs": [
+      "Apresentação"
+    ]
+  },
+  {
+    "objectID": "basico/conhecendo.html",
+    "href": "basico/conhecendo.html",
+    "title": "1  Conhecendo o WhatsApp",
+    "section": "",
+    "text": "1.1 Onde o WhatsApp funciona\nO WhatsApp é um aplicativo gratuito de mensagens que funciona pela internet. Com ele você troca mensagens de texto, áudios, fotos, vídeos e documentos, faz ligações de voz e vídeo e participa de grupos, sem pagar por mensagem enviada. O nome é um trocadilho com a expressão inglesa What’s up?, algo como “E aí?” (Costa e Epaminondas 2026).\nA conta do WhatsApp fica ligada a um número de celular. O celular é o aparelho principal; o computador, o tablet e outros aparelhos são conectados a essa mesma conta.\nAs funções são praticamente as mesmas em todas as versões. Algumas configurações da conta, como a verificação em duas etapas e as cópias de segurança, só existem no celular.",
+    "crumbs": [
+      "Primeiros passos",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Conhecendo o WhatsApp</span>"
+    ]
+  },
+  {
+    "objectID": "basico/conhecendo.html#onde-o-whatsapp-funciona",
+    "href": "basico/conhecendo.html#onde-o-whatsapp-funciona",
+    "title": "1  Conhecendo o WhatsApp",
+    "section": "",
+    "text": "Versões do WhatsApp\n\n\n\n\n\n\n\nVersão\nOnde usar\nComo entrar\n\n\n\n\nAplicativo para celular\nAndroid e iPhone\nInstalado pela loja de aplicativos, com o número de telefone\n\n\nWhatsApp Web\nQualquer navegador no computador\nEndereço web.whatsapp.com, lendo um QR code com o celular\n\n\nAplicativo para computador\nWindows e Mac\nInstalado pela Microsoft Store ou pela App Store, conectado pelo celular",
+    "crumbs": [
+      "Primeiros passos",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Conhecendo o WhatsApp</span>"
+    ]
+  },
+  {
+    "objectID": "basico/conhecendo.html#principais-funções",
+    "href": "basico/conhecendo.html#principais-funções",
+    "title": "1  Conhecendo o WhatsApp",
+    "section": "1.2 Principais funções",
+    "text": "1.2 Principais funções\n\nEnviar e receber mensagens de texto, com emojis, GIFs e figurinhas;\nGravar e enviar mensagens de voz;\nEnviar fotos, vídeos, documentos, contatos, enquetes e eventos;\nFazer ligações de voz e de vídeo, individuais ou em grupo;\nCriar e participar de grupos e comunidades;\nSeguir canais de notícias, órgãos públicos e personalidades;\nPublicar status com fotos, vídeos e textos que somem em 24 horas;\nProteger a conta e controlar quem vê suas informações.",
+    "crumbs": [
+      "Primeiros passos",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Conhecendo o WhatsApp</span>"
+    ]
+  },
+  {
+    "objectID": "basico/conhecendo.html#instalar-o-whatsapp-no-celular",
+    "href": "basico/conhecendo.html#instalar-o-whatsapp-no-celular",
+    "title": "1  Conhecendo o WhatsApp",
+    "section": "1.3 Instalar o WhatsApp no celular",
+    "text": "1.3 Instalar o WhatsApp no celular\n\nDescubra o sistema do seu celular. A maioria dos aparelhos usa Android; os aparelhos da Apple usam iOS (iPhone).\nAbra a loja de aplicativos: Play Store no Android ou App Store no iPhone.\nToque na barra de pesquisa, na parte de cima da tela, e escreva WhatsApp.\nEscolha o aplicativo WhatsApp Messenger, publicado pela WhatsApp LLC, e toque em Instalar (ou Obter, no iPhone).\nQuando a instalação terminar, toque em Abrir.\nAceite os termos, informe o número do seu celular e digite o código de 6 números que chega por SMS.\nEscreva seu nome e, se quiser, escolha uma foto de perfil.\n\n\n\n\n\n\n\nAvisoCuidado com o código de verificação\n\n\n\nO código de 6 números que chega por SMS serve só para você. Nunca o repasse a ninguém, nem a quem diga ser do WhatsApp, do banco ou de uma loja. Quem tem esse código consegue entrar na sua conta.",
+    "crumbs": [
+      "Primeiros passos",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Conhecendo o WhatsApp</span>"
+    ]
+  },
+  {
+    "objectID": "basico/conhecendo.html#entrar-no-whatsapp-web",
+    "href": "basico/conhecendo.html#entrar-no-whatsapp-web",
+    "title": "1  Conhecendo o WhatsApp",
+    "section": "1.4 Entrar no WhatsApp Web",
+    "text": "1.4 Entrar no WhatsApp Web\nO WhatsApp Web mostra as suas conversas na tela grande do computador, com teclado e mouse, o que facilita escrever mensagens longas e enviar arquivos.\n\nNo computador, abra o navegador e acesse web.whatsapp.com. Aparece a tela da Figura 1.1, com um QR code à direita.\nNo celular, abra o WhatsApp.\n\nAndroid: toque nos três pontinhos, no canto de cima, e depois em Aparelhos conectados.\niPhone: toque em Configurações e depois em Aparelhos conectados.\n\nToque em Conectar um aparelho e, se pedido, confirme com a digital, o rosto ou a senha do celular.\nAponte a câmera do celular para o QR code que aparece no computador.\nAguarde alguns segundos. As conversas carregam na tela do computador.\n\n\n\n\n\n\n\nFigura 1.1: Tela de entrada do WhatsApp Web. O QR code foi borrado na imagem.\n\n\n\nA opção Continuar conectado neste navegador mantém o acesso mesmo depois de fechar o navegador. Em computadores de uso coletivo, como os de escolas, bibliotecas e lan houses, desmarque essa opção.\nTambém é possível entrar sem câmera: clique em Entrar com número de telefone, informe o número e digite no celular o código que aparece no computador.\n\n\n\n\n\n\nDicaCelular desligado\n\n\n\nDepois de conectado, o WhatsApp Web continua funcionando mesmo com o celular sem internet ou desligado. Se o celular ficar 14 dias sem uso, os aparelhos conectados são desconectados automaticamente.",
+    "crumbs": [
+      "Primeiros passos",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Conhecendo o WhatsApp</span>"
+    ]
+  },
+  {
+    "objectID": "basico/conhecendo.html#sair-do-whatsapp-web",
+    "href": "basico/conhecendo.html#sair-do-whatsapp-web",
+    "title": "1  Conhecendo o WhatsApp",
+    "section": "1.5 Sair do WhatsApp Web",
+    "text": "1.5 Sair do WhatsApp Web\nSair é importante quando o computador não é seu.\n\nPelo computador: clique nos três pontinhos acima da lista de conversas e escolha Desconectar (Figura 2.2, no próximo capítulo).\nPelo celular: abra Aparelhos conectados, toque no aparelho da lista e depois em Desconectar. Esse caminho funciona mesmo longe do computador.\n\n\n\n\n\nCosta, Conceição de Maria Cardoso, e Jocênio Marquios Epaminondas. 2026. Explorando o mundo digital: guia prático WhatsApp para pessoas idosas. Editora IFB.",
+    "crumbs": [
+      "Primeiros passos",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Conhecendo o WhatsApp</span>"
+    ]
+  },
+  {
+    "objectID": "basico/tela-inicial.html",
+    "href": "basico/tela-inicial.html",
+    "title": "2  A tela inicial",
+    "section": "",
+    "text": "2.1 A barra lateral\nDepois de entrar, o WhatsApp Web mostra a tela inicial (Figura 2.1). Ela é dividida em três áreas:\nOs ícones da barra lateral, de cima para baixo:\nUma bolinha verde sobre um ícone indica que há novidades naquela seção.",
+    "crumbs": [
+      "Primeiros passos",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>A tela inicial</span>"
+    ]
+  },
+  {
+    "objectID": "basico/tela-inicial.html#a-barra-lateral",
+    "href": "basico/tela-inicial.html#a-barra-lateral",
+    "title": "2  A tela inicial",
+    "section": "",
+    "text": "Ícones da barra lateral\n\n\n\n\n\n\n\nÍcone\nNome\nPara que serve\n\n\n\n\nBalão de conversa\nConversas\nVolta para a lista de conversas\n\n\nTelefone\nLigações\nHistórico de chamadas e novas ligações (Capítulo 14)\n\n\nCírculo tracejado\nStatus\nFotos, vídeos e textos que somem em 24 horas (Capítulo 13)\n\n\nBalão com ondas\nCanais\nCanais que você segue (Capítulo 12)\n\n\nTrês pessoas\nComunidades\nComunidades das quais você participa (Capítulo 11)\n\n\nCírculo colorido\nMeta AI\nAssistente de inteligência artificial do WhatsApp\n\n\nMoldura de fotos\nMídia\nFotos, vídeos e documentos trocados nas conversas\n\n\nSua foto\nVocê\nPerfil e configurações (Capítulo 3 e Capítulo 15)",
+    "crumbs": [
+      "Primeiros passos",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>A tela inicial</span>"
+    ]
+  },
+  {
+    "objectID": "basico/tela-inicial.html#a-lista-de-conversas",
+    "href": "basico/tela-inicial.html#a-lista-de-conversas",
+    "title": "2  A tela inicial",
+    "section": "2.2 A lista de conversas",
+    "text": "2.2 A lista de conversas\nCada linha da lista mostra a foto e o nome do contato ou grupo, o começo da última mensagem e o horário. Um número em um círculo verde indica quantas mensagens ainda não foram lidas. As conversas mais recentes ficam no topo.\nAcima da lista ficam:\n\nPesquisar ou começar uma nova conversa: campo para procurar contatos, grupos e palavras em mensagens;\nFiltros: botões Tudo, Não lidas, Favoritas e Grupos, que mostram só um tipo de conversa;\n+ (mais): cria listas personalizadas de conversas (Capítulo 9).\n\n\n2.2.1 Pesquisar\n\nClique no campo Pesquisar ou começar uma nova conversa.\nEscreva o nome de um contato, de um grupo ou uma palavra que esteja em alguma mensagem.\nOs resultados aparecem logo abaixo, separados em conversas, contatos e mensagens. Clique em um resultado para abri-lo.",
+    "crumbs": [
+      "Primeiros passos",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>A tela inicial</span>"
+    ]
+  },
+  {
+    "objectID": "basico/tela-inicial.html#o-menu-principal",
+    "href": "basico/tela-inicial.html#o-menu-principal",
+    "title": "2  A tela inicial",
+    "section": "2.3 O menu principal",
+    "text": "2.3 O menu principal\nOs três pontinhos no alto da lista de conversas abrem o menu principal (Figura 2.2).\n\n\n\n\n\n\nFigura 2.2: Menu principal, aberto pelos três pontinhos acima da lista de conversas.\n\n\n\n\nOpções do menu principal\n\n\n\n\n\n\nOpção\nO que faz\n\n\n\n\nNovo grupo\nCria um grupo de conversa (Capítulo 10)\n\n\nMensagens favoritas\nMostra as mensagens que você marcou com estrela\n\n\nSelecionar conversas\nPermite marcar várias conversas para arquivar, silenciar ou apagar de uma vez\n\n\nMarcar todas como lidas\nZera o contador de mensagens não lidas\n\n\nBloqueio do app\nCria uma senha para abrir o WhatsApp Web neste computador\n\n\nDesconectar\nSai do WhatsApp Web neste navegador\n\n\n\nO botão verde ao lado dos três pontinhos abre a tela de Nova conversa (Capítulo 4).",
+    "crumbs": [
+      "Primeiros passos",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>A tela inicial</span>"
+    ]
+  },
+  {
+    "objectID": "basico/perfil.html",
+    "href": "basico/perfil.html",
+    "title": "3  Perfil",
+    "section": "",
+    "text": "3.1 Abrir o perfil\nO perfil reúne as informações que os seus contatos veem sobre você: foto, nome e recado.\nNo celular, o caminho é três pontinhos &gt; Configurações e depois toque na sua foto (Android) ou Configurações &gt; sua foto (iPhone).",
+    "crumbs": [
+      "Primeiros passos",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Perfil</span>"
+    ]
+  },
+  {
+    "objectID": "basico/perfil.html#abrir-o-perfil",
+    "href": "basico/perfil.html#abrir-o-perfil",
+    "title": "3  Perfil",
+    "section": "",
+    "text": "Clique na sua foto, no canto de baixo da barra lateral (ícone Você). Abre a tela de configurações (Figura 15.1, no Capítulo 15).\nClique em Perfil. Aparece a tela Editar perfil (Figura 3.1).\n\n\n\n\n\n\n\n\nFigura 3.1: Tela Editar perfil, com foto, recado, nome, nome de usuário e telefone borrados.",
+    "crumbs": [
+      "Primeiros passos",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Perfil</span>"
+    ]
+  },
+  {
+    "objectID": "basico/perfil.html#trocar-a-foto-de-perfil",
+    "href": "basico/perfil.html#trocar-a-foto-de-perfil",
+    "title": "3  Perfil",
+    "section": "3.2 Trocar a foto de perfil",
+    "text": "3.2 Trocar a foto de perfil\n\nNa tela Editar perfil, clique na sua foto.\nEscolha uma das opções:\n\nTirar foto: usa a câmera do computador;\nCarregar foto: escolhe uma imagem guardada no computador;\nRemover foto: apaga a foto atual.\n\nAjuste o enquadramento arrastando e usando o zoom e clique no botão de confirmação.",
+    "crumbs": [
+      "Primeiros passos",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Perfil</span>"
+    ]
+  },
+  {
+    "objectID": "basico/perfil.html#alterar-o-recado",
+    "href": "basico/perfil.html#alterar-o-recado",
+    "title": "3  Perfil",
+    "section": "3.3 Alterar o recado",
+    "text": "3.3 Alterar o recado\nO recado (chamado de About em algumas versões) é uma frase curta que aparece no seu perfil, como “Disponível” ou “No trabalho”.\n\nClique no lápis ao lado do recado atual.\nApague o texto, escreva o novo recado e pressione Enter.",
+    "crumbs": [
+      "Primeiros passos",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Perfil</span>"
+    ]
+  },
+  {
+    "objectID": "basico/perfil.html#alterar-o-nome",
+    "href": "basico/perfil.html#alterar-o-nome",
+    "title": "3  Perfil",
+    "section": "3.4 Alterar o nome",
+    "text": "3.4 Alterar o nome\nO nome aparece para quem não tem o seu número salvo na agenda e nas notificações de quem recebe suas mensagens.\n\nClique no lápis ao lado de Nome.\nEscreva o novo nome e pressione Enter.",
+    "crumbs": [
+      "Primeiros passos",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Perfil</span>"
+    ]
+  },
+  {
+    "objectID": "basico/perfil.html#nome-de-usuário-e-telefone",
+    "href": "basico/perfil.html#nome-de-usuário-e-telefone",
+    "title": "3  Perfil",
+    "section": "3.5 Nome de usuário e telefone",
+    "text": "3.5 Nome de usuário e telefone\n\nNome de usuário reservado: um apelido único, começando com @, que permite que outras pessoas encontrem você sem saber o seu número.\nTelefone: o número ligado à conta. O botão ao lado copia o número. Ele não pode ser trocado por aqui; a troca de número é feita no celular, em Configurações &gt; Conta &gt; Mudar número.\n\n\n\n\n\n\n\nNotaQuem vê o quê\n\n\n\nQuem pode ver a sua foto, o recado e o horário em que você esteve on-line é definido na tela de privacidade (Capítulo 16).",
+    "crumbs": [
+      "Primeiros passos",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Perfil</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/nova-conversa.html",
+    "href": "conversas/nova-conversa.html",
+    "title": "4  Iniciar uma conversa",
+    "section": "",
+    "text": "4.1 Abrir uma conversa existente\nClique em qualquer conversa da lista. Ela abre na área da direita (Figura 4.1), com:",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Iniciar uma conversa</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/nova-conversa.html#abrir-uma-conversa-existente",
+    "href": "conversas/nova-conversa.html#abrir-uma-conversa-existente",
+    "title": "4  Iniciar uma conversa",
+    "section": "",
+    "text": "Cabeçalho, no alto, com a foto e o nome do contato ou do grupo. Clicar nele abre os dados do contato (Capítulo 8);\nMensagens, no meio. As suas ficam à direita, em verde; as recebidas ficam à esquerda;\nBarra de digitação, embaixo, com o clipe de anexos, o botão de emojis, o campo Digite uma mensagem e o microfone.\n\n\n\n\n\n\n\nFigura 4.1: Conversa aberta. As mensagens, a foto e o nome do contato foram borrados.",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Iniciar uma conversa</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/nova-conversa.html#começar-uma-conversa-nova",
+    "href": "conversas/nova-conversa.html#começar-uma-conversa-nova",
+    "title": "4  Iniciar uma conversa",
+    "section": "4.2 Começar uma conversa nova",
+    "text": "4.2 Começar uma conversa nova\n\nClique no botão verde Nova conversa, acima da lista de conversas. Abre a tela da Figura 4.2.\nNo campo Pesquisar nome, número ou @nomedeusuário, escreva o nome do contato.\nClique no contato desejado. A conversa abre, pronta para receber a primeira mensagem.\n\n\n\n\n\n\n\nFigura 4.2: Tela Nova conversa, com os atalhos Novo grupo, Novo contato e Nova comunidade. A lista de contatos foi borrada.\n\n\n\nNessa mesma tela ficam os atalhos:\n\nNovo grupo: cria um grupo (Capítulo 10);\nNovo contato: salva um número novo na sua conta;\nNova comunidade: cria uma comunidade (Capítulo 11).\n\nO ícone de teclado numérico, no canto de cima, permite digitar um número de telefone diretamente, mesmo que ele não esteja salvo.",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Iniciar uma conversa</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/nova-conversa.html#conversar-consigo-mesmo",
+    "href": "conversas/nova-conversa.html#conversar-consigo-mesmo",
+    "title": "4  Iniciar uma conversa",
+    "section": "4.3 Conversar consigo mesmo",
+    "text": "4.3 Conversar consigo mesmo\nO primeiro contato da lista é você mesmo, marcado como “(você)”. Essa conversa funciona como um bloco de anotações: tudo o que você mandar ali fica guardado só para você. É útil para salvar lembretes, links e arquivos e para passar arquivos do celular para o computador.",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Iniciar uma conversa</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/nova-conversa.html#adicionar-um-contato",
+    "href": "conversas/nova-conversa.html#adicionar-um-contato",
+    "title": "4  Iniciar uma conversa",
+    "section": "4.4 Adicionar um contato",
+    "text": "4.4 Adicionar um contato\n\nNa tela Nova conversa, clique em Novo contato.\nPreencha o nome, o sobrenome e o número com o código do país (no Brasil, +55) e o DDD.\nClique em Salvar. O contato passa a aparecer na lista.",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Iniciar uma conversa</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/mensagens.html",
+    "href": "conversas/mensagens.html",
+    "title": "5  Escrever e enviar mensagens",
+    "section": "",
+    "text": "5.1 Enviar uma mensagem de texto\nPara pular uma linha sem enviar, use Shift + Enter.",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Escrever e enviar mensagens</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/mensagens.html#enviar-uma-mensagem-de-texto",
+    "href": "conversas/mensagens.html#enviar-uma-mensagem-de-texto",
+    "title": "5  Escrever e enviar mensagens",
+    "section": "",
+    "text": "Abra a conversa.\nClique no campo Digite uma mensagem, na parte de baixo da tela.\nEscreva a mensagem.\nPressione Enter ou clique na seta verde de envio, que aparece no lugar do microfone.",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Escrever e enviar mensagens</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/mensagens.html#os-tiques-da-mensagem",
+    "href": "conversas/mensagens.html#os-tiques-da-mensagem",
+    "title": "5  Escrever e enviar mensagens",
+    "section": "5.2 Os tiques da mensagem",
+    "text": "5.2 Os tiques da mensagem\nOs tiques ao lado do horário mostram o que aconteceu com a mensagem enviada.\n\nTiques de confirmação\n\n\n\n\n\n\nSinal\nSignificado\n\n\n\n\nRelógio\nA mensagem ainda está sendo enviada\n\n\nUm tique cinza\nEnviada, mas ainda não chegou ao aparelho da outra pessoa\n\n\nDois tiques cinza\nEntregue no aparelho da outra pessoa\n\n\nDois tiques azuis\nLida pela outra pessoa\n\n\n\nSe a pessoa desligou as confirmações de leitura, os tiques ficam sempre cinza (Capítulo 16).",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Escrever e enviar mensagens</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/mensagens.html#formatar-o-texto",
+    "href": "conversas/mensagens.html#formatar-o-texto",
+    "title": "5  Escrever e enviar mensagens",
+    "section": "5.3 Formatar o texto",
+    "text": "5.3 Formatar o texto\nO WhatsApp permite destacar partes da mensagem com símbolos simples, colocados antes e depois do texto:\n\nFormatação de texto\n\n\n\n\n\n\n\nPara obter\nEscreva\nResultado\n\n\n\n\nNegrito\n*texto*\ntexto\n\n\nItálico\n_texto_\ntexto\n\n\nTachado\n~texto~\ntexto\n\n\nMonoespaçado\n```texto```\ntexto\n\n\nCódigo em linha\n`texto`\ntexto\n\n\nLista com marcadores\n- texto ou * texto no começo da linha\nlista\n\n\nLista numerada\n1. texto no começo da linha\nlista numerada\n\n\nCitação\n&gt; texto no começo da linha\nbloco de citação\n\n\n\nNo computador também dá para selecionar o texto já digitado com o mouse: aparece uma pequena barra com as opções de formatação.",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Escrever e enviar mensagens</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/mensagens.html#emojis",
+    "href": "conversas/mensagens.html#emojis",
+    "title": "5  Escrever e enviar mensagens",
+    "section": "5.4 Emojis",
+    "text": "5.4 Emojis\nEmojis são pequenas figuras que expressam sentimentos e ideias, como uma carinha sorrindo ou um coração.\n\nClique no botão de carinha (Emojis, GIFs, figurinhas), à esquerda do campo de mensagem. Abre o painel da Figura 5.1.\nUse as abas do alto para navegar pelas categorias (recentes, rostos, animais, comidas, atividades, viagens, objetos, símbolos e bandeiras) ou escreva no campo Pesquisar emoji, por exemplo coração.\nClique no emoji. Ele entra no campo de mensagem.\nEnvie com Enter.\n\n\n\n\n\n\n\nFigura 5.1: Painel de emojis, com as categorias no alto e as abas de emoji, GIF e figurinha embaixo.\n\n\n\nTambém é possível escrever : seguido do nome em inglês do emoji, como :smile, e escolher na lista que aparece.",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Escrever e enviar mensagens</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/mensagens.html#gifs",
+    "href": "conversas/mensagens.html#gifs",
+    "title": "5  Escrever e enviar mensagens",
+    "section": "5.5 GIFs",
+    "text": "5.5 GIFs\nGIFs são pequenas animações sem som, muito usadas para reagir com humor.\n\nAbra o painel de emojis.\nClique na aba GIF, na parte de baixo do painel (Figura 5.2).\nEscolha uma das categorias do alto ou pesquise no campo Pesquisar GIFs em GIPHY.\nClique no GIF. Ele abre em uma prévia, onde é possível escrever uma legenda.\nClique no botão de envio.\n\n\n\n\n\n\n\nFigura 5.2: Aba de GIFs. As miniaturas foram borradas.",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Escrever e enviar mensagens</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/mensagens.html#figurinhas",
+    "href": "conversas/mensagens.html#figurinhas",
+    "title": "5  Escrever e enviar mensagens",
+    "section": "5.6 Figurinhas",
+    "text": "5.6 Figurinhas\nFigurinhas (stickers) são imagens maiores, muitas vezes com desenhos ou fotos recortadas.\n\nAbra o painel de emojis.\nClique na aba de figurinhas, a última na parte de baixo do painel (Figura 5.3).\nNavegue pelas figurinhas recentes, favoritas e pelos pacotes, ou pesquise na Loja de Figurinhas do WhatsApp.\nClique na figurinha para enviá-la na hora.\n\n\n\n\n\n\n\nFigura 5.3: Aba de figurinhas, com o botão Criar. As figurinhas salvas foram borradas.\n\n\n\nO botão Criar transforma uma imagem do computador em figurinha: escolha a imagem, recorte, acrescente textos ou emojis e envie.",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Escrever e enviar mensagens</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/mensagens.html#mensagem-de-voz",
+    "href": "conversas/mensagens.html#mensagem-de-voz",
+    "title": "5  Escrever e enviar mensagens",
+    "section": "5.7 Mensagem de voz",
+    "text": "5.7 Mensagem de voz\nMensagens de voz (áudios) são úteis para quem tem dificuldade para digitar.\n\nClique no microfone, à direita do campo de mensagem. O navegador pode pedir permissão para usar o microfone; clique em Permitir.\nFale a mensagem. Um contador mostra o tempo de gravação.\nPara enviar, clique na seta verde. Para pausar e ouvir antes, clique no botão de pausa. Para desistir, clique na lixeira.\n\nNo celular, segure o microfone enquanto fala e solte para enviar. Para não precisar segurar, arraste o dedo para cima até o cadeado: a gravação fica travada e você envia quando terminar.\n\n\n\n\n\n\nDicaOuvir mais rápido\n\n\n\nAo ouvir um áudio recebido, clique em 1x para trocar a velocidade para 1,5x ou 2x.",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Escrever e enviar mensagens</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/anexos.html",
+    "href": "conversas/anexos.html",
+    "title": "6  Enviar arquivos e anexos",
+    "section": "",
+    "text": "6.1 Enviar fotos e vídeos\nO botão de clipe (Anexar), à esquerda do campo de mensagem, abre o menu de anexos (Figura 6.1). As opções podem variar um pouco entre conversas individuais e grupos.",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Enviar arquivos e anexos</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/anexos.html#enviar-fotos-e-vídeos",
+    "href": "conversas/anexos.html#enviar-fotos-e-vídeos",
+    "title": "6  Enviar arquivos e anexos",
+    "section": "",
+    "text": "Clique no clipe e escolha Fotos e vídeos.\nNa janela do computador, selecione uma ou mais imagens e clique em Abrir.\nNa prévia, é possível:\n\nescrever uma legenda no campo de baixo;\nrecortar, girar, desenhar, escrever e colocar emojis sobre a imagem;\nacrescentar outras imagens pelo botão +;\nativar a visualização única, para a foto sumir depois de aberta uma vez.\n\nClique no botão verde de envio.\n\n\n\n\n\n\n\nDicaArrastar e soltar\n\n\n\nNo computador, também é possível arrastar uma foto ou um arquivo de uma pasta e soltar sobre a conversa aberta.",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Enviar arquivos e anexos</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/anexos.html#enviar-documentos",
+    "href": "conversas/anexos.html#enviar-documentos",
+    "title": "6  Enviar arquivos e anexos",
+    "section": "6.2 Enviar documentos",
+    "text": "6.2 Enviar documentos\n\nClique no clipe e escolha Documento.\nSelecione o arquivo e clique em Abrir.\nConfira o nome do arquivo na prévia e clique em enviar.\n\nFotos enviadas como documento não perdem qualidade, porque o WhatsApp não as comprime.",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Enviar arquivos e anexos</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/anexos.html#enviar-um-contato",
+    "href": "conversas/anexos.html#enviar-um-contato",
+    "title": "6  Enviar arquivos e anexos",
+    "section": "6.3 Enviar um contato",
+    "text": "6.3 Enviar um contato\n\nClique no clipe e escolha Contato.\nMarque um ou mais contatos da lista.\nClique em enviar. A outra pessoa recebe um cartão com o nome e o número, que pode salvar com um clique.",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Enviar arquivos e anexos</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/anexos.html#criar-uma-enquete",
+    "href": "conversas/anexos.html#criar-uma-enquete",
+    "title": "6  Enviar arquivos e anexos",
+    "section": "6.4 Criar uma enquete",
+    "text": "6.4 Criar uma enquete\nA enquete serve para decidir algo em grupo, como o dia de um encontro.\n\nClique no clipe e escolha Enquete.\nEscreva a pergunta.\nEscreva as opções de resposta, uma em cada campo.\nEscolha se as pessoas poderão marcar mais de uma resposta.\nClique em enviar. Os votos aparecem na própria mensagem, atualizados na hora.",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Enviar arquivos e anexos</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/anexos.html#criar-um-evento",
+    "href": "conversas/anexos.html#criar-um-evento",
+    "title": "6  Enviar arquivos e anexos",
+    "section": "6.5 Criar um evento",
+    "text": "6.5 Criar um evento\nDisponível em grupos e comunidades.\n\nClique no clipe e escolha Evento.\nPreencha o nome do evento, a descrição, a data, o horário e o local. Se quiser, marque a opção de link de ligação para um encontro on-line.\nClique em enviar. Os participantes respondem se vão ou não e recebem um lembrete perto da data.",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Enviar arquivos e anexos</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/anexos.html#compartilhar-localização",
+    "href": "conversas/anexos.html#compartilhar-localização",
+    "title": "6  Enviar arquivos e anexos",
+    "section": "6.6 Compartilhar localização",
+    "text": "6.6 Compartilhar localização\nA localização só pode ser enviada pelo celular.\n\nNo celular, abra a conversa e toque no clipe (Android) ou no + (iPhone).\nToque em Localização.\nEscolha Localização atual, para enviar onde você está agora, ou Localização em tempo real, para que a pessoa acompanhe seus deslocamentos por um tempo escolhido (15 minutos, 1 hora ou 8 horas).\n\n\n\n\n\n\n\nAvisoLocalização é informação sensível\n\n\n\nCompartilhe a localização apenas com pessoas de confiança. A localização em tempo real pode ser interrompida a qualquer momento em Parar de compartilhar.",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Enviar arquivos e anexos</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/opcoes-mensagem.html",
+    "href": "conversas/opcoes-mensagem.html",
+    "title": "7  Ações sobre uma mensagem",
+    "section": "",
+    "text": "7.1 Responder a uma mensagem específica\nCada mensagem tem o seu próprio menu. Para abri-lo no computador:\nJunto com o menu aparece uma barra de emojis para reagir (Figura 7.1). No celular, o mesmo menu aparece ao tocar e segurar a mensagem.\nEm grupos, isso deixa claro a qual mensagem você está respondendo. No celular, basta arrastar a mensagem para a direita.",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Ações sobre uma mensagem</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/opcoes-mensagem.html#responder-a-uma-mensagem-específica",
+    "href": "conversas/opcoes-mensagem.html#responder-a-uma-mensagem-específica",
+    "title": "7  Ações sobre uma mensagem",
+    "section": "",
+    "text": "Abra o menu da mensagem e clique em Responder.\nA mensagem original aparece em destaque acima do campo de digitação.\nEscreva a resposta e envie.",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Ações sobre uma mensagem</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/opcoes-mensagem.html#reagir",
+    "href": "conversas/opcoes-mensagem.html#reagir",
+    "title": "7  Ações sobre uma mensagem",
+    "section": "7.2 Reagir",
+    "text": "7.2 Reagir\n\nPasse o mouse sobre a mensagem e clique na carinha, ou abra o menu e clique em Reagir.\nEscolha um dos emojis rápidos ou clique em + para ver todos.\n\nPara retirar a reação, clique de novo no mesmo emoji.",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Ações sobre uma mensagem</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/opcoes-mensagem.html#encaminhar",
+    "href": "conversas/opcoes-mensagem.html#encaminhar",
+    "title": "7  Ações sobre uma mensagem",
+    "section": "7.3 Encaminhar",
+    "text": "7.3 Encaminhar\n\nAbra o menu da mensagem e clique em Encaminhar.\nMarque uma ou mais conversas de destino.\nClique em enviar.\n\nAs mensagens encaminhadas aparecem com o aviso Encaminhada. Quando a mensagem já passou por muitas pessoas, aparece Encaminhada com frequência e só pode ser enviada para uma conversa por vez.\n\n\n\n\n\n\nAvisoAntes de encaminhar\n\n\n\nMensagens encaminhadas com frequência são uma das principais formas de espalhar boatos e notícias falsas. Antes de repassar, confira a informação em fontes confiáveis.",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Ações sobre uma mensagem</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/opcoes-mensagem.html#fixar",
+    "href": "conversas/opcoes-mensagem.html#fixar",
+    "title": "7  Ações sobre uma mensagem",
+    "section": "7.4 Fixar",
+    "text": "7.4 Fixar\nA mensagem fixada fica presa no alto da conversa, abaixo do cabeçalho, por 24 horas, 7 dias ou 30 dias. É útil para avisos importantes em grupos.",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Ações sobre uma mensagem</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/opcoes-mensagem.html#favoritar",
+    "href": "conversas/opcoes-mensagem.html#favoritar",
+    "title": "7  Ações sobre uma mensagem",
+    "section": "7.5 Favoritar",
+    "text": "7.5 Favoritar\nMensagens favoritadas ganham uma estrela e ficam reunidas em Mensagens favoritas, no menu principal (Figura 2.2) ou nos dados do contato.",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Ações sobre uma mensagem</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/opcoes-mensagem.html#editar",
+    "href": "conversas/opcoes-mensagem.html#editar",
+    "title": "7  Ações sobre uma mensagem",
+    "section": "7.6 Editar",
+    "text": "7.6 Editar\n\nAbra o menu de uma mensagem de texto que você enviou há menos de 15 minutos.\nClique em Editar, corrija o texto e envie de novo.\n\nA mensagem passa a mostrar o aviso Editada.",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Ações sobre uma mensagem</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/opcoes-mensagem.html#apagar",
+    "href": "conversas/opcoes-mensagem.html#apagar",
+    "title": "7  Ações sobre uma mensagem",
+    "section": "7.7 Apagar",
+    "text": "7.7 Apagar\n\nAbra o menu da mensagem e clique em Apagar.\nEscolha:\n\nApagar para mim: some só da sua tela;\nApagar para todos: some para todos da conversa e fica o aviso “Mensagem apagada”. Esta opção existe por cerca de 2 dias depois do envio.",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Ações sobre uma mensagem</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/opcoes-mensagem.html#selecionar-várias-mensagens",
+    "href": "conversas/opcoes-mensagem.html#selecionar-várias-mensagens",
+    "title": "7  Ações sobre uma mensagem",
+    "section": "7.8 Selecionar várias mensagens",
+    "text": "7.8 Selecionar várias mensagens\nNo menu da conversa, a opção Selecionar mensagens permite marcar várias mensagens para encaminhar, favoritar ou apagar todas de uma vez (Capítulo 8).",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Ações sobre uma mensagem</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/opcoes-conversa.html",
+    "href": "conversas/opcoes-conversa.html",
+    "title": "8  Opções da conversa",
+    "section": "",
+    "text": "8.1 Menu da conversa\nNo cabeçalho de toda conversa aberta há dois botões à direita: a lupa (Pesquisar) e os três pontinhos (Mais opções).\nClique nos três pontinhos do cabeçalho para abrir o menu da Figura 8.1.",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Opções da conversa</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/opcoes-conversa.html#menu-da-conversa",
+    "href": "conversas/opcoes-conversa.html#menu-da-conversa",
+    "title": "8  Opções da conversa",
+    "section": "",
+    "text": "Figura 8.1: Menu da conversa, aberto pelos três pontinhos do cabeçalho.\n\n\n\n\nOpções do menu da conversa\n\n\n\n\n\n\nOpção\nO que faz\n\n\n\n\nDados do contato\nAbre a ficha do contato ou do grupo\n\n\nPesquisar\nProcura palavras dentro desta conversa\n\n\nSelecionar mensagens\nMarca várias mensagens para encaminhar, favoritar ou apagar\n\n\nMensagens temporárias\nFaz as novas mensagens sumirem depois de um prazo\n\n\nTema da conversa\nMuda as cores e o papel de parede só desta conversa\n\n\nAdicionar aos Favoritos\nColoca a conversa no filtro Favoritas\n\n\nAdicionar à lista\nColoca a conversa em uma lista personalizada\n\n\nExportar conversa\nSalva o histórico da conversa em um arquivo\n\n\nFechar conversa\nFecha a conversa aberta (o mesmo que Esc)\n\n\nEnviar link de ligação\nGera um link para uma ligação marcada\n\n\nNova ligação em grupo\nInicia uma chamada com várias pessoas\n\n\nLimpar conversa\nApaga todas as mensagens, mas mantém a conversa na lista\n\n\nApagar conversa\nRemove a conversa inteira da lista",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Opções da conversa</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/opcoes-conversa.html#dados-do-contato",
+    "href": "conversas/opcoes-conversa.html#dados-do-contato",
+    "title": "8  Opções da conversa",
+    "section": "8.2 Dados do contato",
+    "text": "8.2 Dados do contato\nClique no nome do contato, no cabeçalho, ou em Dados do contato no menu. Abre um painel à direita (Figura 8.2) com:\n\nfoto, nome e número de telefone;\nRecado da pessoa;\nMídia, links e docs: tudo o que foi trocado na conversa, separado por tipo;\nMensagens favoritas desta conversa;\nMensagens temporárias e Privacidade avançada da conversa;\nTema da conversa e Criptografia;\nno final, as opções de Bloquear, Denunciar, Limpar conversa e Apagar conversa.\n\n\n\n\n\n\n\nFigura 8.2: Dados do contato. Foto, nome, telefone e recado foram borrados.\n\n\n\nEm um grupo, o mesmo painel mostra a descrição do grupo, a lista de participantes e as configurações do grupo (Capítulo 10).",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Opções da conversa</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/opcoes-conversa.html#pesquisar-dentro-da-conversa",
+    "href": "conversas/opcoes-conversa.html#pesquisar-dentro-da-conversa",
+    "title": "8  Opções da conversa",
+    "section": "8.3 Pesquisar dentro da conversa",
+    "text": "8.3 Pesquisar dentro da conversa\n\nClique na lupa do cabeçalho. Abre o painel Pesquisar mensagens (Figura 8.3).\nEscreva a palavra procurada.\nClique em um resultado para ir direto à mensagem.\n\nO ícone de calendário, à esquerda do campo, permite pular para uma data específica.\n\n\n\n\n\n\nFigura 8.3: Painel Pesquisar mensagens, aberto pela lupa do cabeçalho.",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Opções da conversa</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/opcoes-conversa.html#mensagens-temporárias",
+    "href": "conversas/opcoes-conversa.html#mensagens-temporárias",
+    "title": "8  Opções da conversa",
+    "section": "8.4 Mensagens temporárias",
+    "text": "8.4 Mensagens temporárias\nCom as mensagens temporárias ligadas, as novas mensagens da conversa somem sozinhas depois do prazo escolhido.\n\nAbra o menu da conversa e clique em Mensagens temporárias (Figura 8.4).\nEscolha 24 horas, 7 dias ou 90 dias. Para desligar, escolha Desativadas.\n\n\n\n\n\n\n\nFigura 8.4: Painel de mensagens temporárias.\n\n\n\nAs mensagens que já estavam na conversa antes da mudança não são afetadas. Qualquer participante pode salvar uma mensagem específica para que ela não suma.",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Opções da conversa</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/opcoes-conversa.html#silenciar-uma-conversa",
+    "href": "conversas/opcoes-conversa.html#silenciar-uma-conversa",
+    "title": "8  Opções da conversa",
+    "section": "8.5 Silenciar uma conversa",
+    "text": "8.5 Silenciar uma conversa\nSilenciar faz a conversa parar de tocar o som de notificação, sem sair dela.\n\nNa lista de conversas, passe o mouse sobre a conversa e clique na setinha que aparece.\nClique em Silenciar notificações.\nEscolha por quanto tempo: 8 horas, 1 semana ou Sempre.",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Opções da conversa</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/opcoes-conversa.html#exportar-conversa",
+    "href": "conversas/opcoes-conversa.html#exportar-conversa",
+    "title": "8  Opções da conversa",
+    "section": "8.6 Exportar conversa",
+    "text": "8.6 Exportar conversa\nA opção Exportar conversa gera um arquivo de texto com todo o histórico, que pode ser guardado como lembrança ou comprovante. No celular, é possível escolher se as fotos e os vídeos vão junto.",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Opções da conversa</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/organizar.html",
+    "href": "conversas/organizar.html",
+    "title": "9  Organizar as conversas",
+    "section": "",
+    "text": "9.1 Menu rápido de uma conversa\nCom o tempo, a lista de conversas fica longa. O WhatsApp oferece várias formas de deixá-la arrumada.\nNa lista de conversas, passe o mouse sobre uma conversa e clique na setinha que aparece à direita. As opções são:",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Organizar as conversas</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/organizar.html#menu-rápido-de-uma-conversa",
+    "href": "conversas/organizar.html#menu-rápido-de-uma-conversa",
+    "title": "9  Organizar as conversas",
+    "section": "",
+    "text": "Menu rápido de uma conversa\n\n\n\n\n\n\nOpção\nO que faz\n\n\n\n\nArquivar conversa\nTira a conversa da lista principal e guarda em Arquivadas\n\n\nSilenciar notificações\nPara de tocar som para esta conversa\n\n\nFixar conversa\nPrende a conversa no topo da lista (até 3 conversas)\n\n\nMarcar como não lida\nVolta a mostrar o círculo verde, como lembrete\n\n\nAdicionar aos Favoritos\nColoca a conversa no filtro Favoritas\n\n\nBloquear\nImpede que o contato envie mensagens e ligue para você\n\n\nApagar conversa\nRemove a conversa da lista",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Organizar as conversas</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/organizar.html#filtros",
+    "href": "conversas/organizar.html#filtros",
+    "title": "9  Organizar as conversas",
+    "section": "9.2 Filtros",
+    "text": "9.2 Filtros\nOs botões acima da lista mostram só um tipo de conversa:\n\nTudo: todas as conversas;\nNão lidas: só as que têm mensagens novas;\nFavoritas: só as conversas marcadas como favoritas;\nGrupos: só os grupos.\n\nClique de novo em Tudo para voltar à lista completa.",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Organizar as conversas</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/organizar.html#listas-personalizadas",
+    "href": "conversas/organizar.html#listas-personalizadas",
+    "title": "9  Organizar as conversas",
+    "section": "9.3 Listas personalizadas",
+    "text": "9.3 Listas personalizadas\nAlém dos filtros prontos, é possível criar listas próprias, como “Família” ou “Trabalho”.\n\nClique no + ao lado dos filtros. Na primeira vez, aparece a explicação da Figura 9.1; clique em Continuar.\nDê um nome para a lista.\nClique em Adicionar pessoas ou grupos e marque as conversas.\nClique em Criar lista. Ela passa a aparecer como um novo filtro.\n\n\n\n\n\n\n\nFigura 9.1: Explicação sobre as listas, exibida ao clicar no + dos filtros.",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Organizar as conversas</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/organizar.html#conversas-arquivadas",
+    "href": "conversas/organizar.html#conversas-arquivadas",
+    "title": "9  Organizar as conversas",
+    "section": "9.4 Conversas arquivadas",
+    "text": "9.4 Conversas arquivadas\nArquivar esconde a conversa da lista principal sem apagar nada.\n\nPara arquivar: use o menu rápido da conversa e clique em Arquivar conversa.\nPara ver as arquivadas: clique em Arquivadas, no topo da lista de conversas (Figura 9.2).\nPara desarquivar: abra Arquivadas, use o menu rápido da conversa e clique em Desarquivar conversa.\n\n\n\n\n\n\n\nFigura 9.2: Tela de conversas arquivadas. Os nomes foram borrados.\n\n\n\nPor padrão, as conversas arquivadas continuam arquivadas mesmo quando chegam mensagens novas. Essa regra pode ser trocada no celular, em Configurações &gt; Conversas &gt; Manter conversas arquivadas.",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Organizar as conversas</span>"
+    ]
+  },
+  {
+    "objectID": "conversas/organizar.html#selecionar-várias-conversas",
+    "href": "conversas/organizar.html#selecionar-várias-conversas",
+    "title": "9  Organizar as conversas",
+    "section": "9.5 Selecionar várias conversas",
+    "text": "9.5 Selecionar várias conversas\n\nNo menu principal (três pontinhos), clique em Selecionar conversas.\nMarque as conversas desejadas.\nUse os botões que aparecem no alto para arquivar, silenciar, marcar como lidas ou apagar todas juntas.",
+    "crumbs": [
+      "Conversas",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Organizar as conversas</span>"
+    ]
+  },
+  {
+    "objectID": "grupos/grupos.html",
+    "href": "grupos/grupos.html",
+    "title": "10  Grupos",
+    "section": "",
+    "text": "10.1 Criar um grupo\nUm grupo reúne várias pessoas na mesma conversa. Todos leem as mesmas mensagens e podem responder, o que facilita combinar encontros, avisar a família ou organizar uma turma. Um grupo pode ter até 1.024 participantes.\nQuem cria o grupo se torna administrador (admin).",
+    "crumbs": [
+      "Grupos, comunidades e canais",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Grupos</span>"
+    ]
+  },
+  {
+    "objectID": "grupos/grupos.html#criar-um-grupo",
+    "href": "grupos/grupos.html#criar-um-grupo",
+    "title": "10  Grupos",
+    "section": "",
+    "text": "Clique nos três pontinhos acima da lista de conversas e escolha Novo grupo. Também é possível usar Nova conversa &gt; Novo grupo.\nNa tela Adicionar pessoas ao grupo (Figura 10.1), escreva o nome de cada pessoa no campo de pesquisa e clique para marcá-la. As pessoas escolhidas aparecem no alto.\nClique na seta verde, embaixo, para continuar.\nEscreva o nome do grupo e, se quiser, escolha uma foto clicando no círculo de imagem.\nClique no botão verde de confirmação. O grupo é criado e aparece na lista de conversas.\n\n\n\n\n\n\n\nFigura 10.1: Tela Adicionar pessoas ao grupo. A lista de contatos foi borrada.",
+    "crumbs": [
+      "Grupos, comunidades e canais",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Grupos</span>"
+    ]
+  },
+  {
+    "objectID": "grupos/grupos.html#dados-do-grupo",
+    "href": "grupos/grupos.html#dados-do-grupo",
+    "title": "10  Grupos",
+    "section": "10.2 Dados do grupo",
+    "text": "10.2 Dados do grupo\nClique no nome do grupo, no cabeçalho da conversa, para abrir os dados do grupo. Ali é possível:\n\ntrocar o nome, a foto e a descrição do grupo (se as permissões deixarem);\nver a lista de participantes;\nadicionar participantes ou convidar por link;\nver a mídia, os links e os documentos trocados;\nsilenciar o grupo, ligar as mensagens temporárias e mudar o tema;\nSair do grupo e Denunciar grupo, no final do painel.",
+    "crumbs": [
+      "Grupos, comunidades e canais",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Grupos</span>"
+    ]
+  },
+  {
+    "objectID": "grupos/grupos.html#funções-do-administrador",
+    "href": "grupos/grupos.html#funções-do-administrador",
+    "title": "10  Grupos",
+    "section": "10.3 Funções do administrador",
+    "text": "10.3 Funções do administrador\n\nFunções do administrador\n\n\n\n\n\n\nAção\nComo fazer\n\n\n\n\nAdicionar pessoas\nDados do grupo &gt; Adicionar participante\n\n\nCriar link de convite\nDados do grupo &gt; Convidar via link; o link pode ser copiado, enviado ou redefinido\n\n\nRemover alguém\nPasse o mouse sobre o participante, clique na setinha e escolha Remover\n\n\nTornar alguém admin\nNo mesmo menu do participante, escolha Promover a admin do grupo\n\n\nAprovar novos membros\nConfigurações do grupo &gt; Aprovar novos participantes\n\n\nLimitar quem envia mensagens\nConfigurações do grupo &gt; Enviar mensagens &gt; Apenas admins\n\n\nLimitar quem edita dados\nConfigurações do grupo &gt; Editar dados do grupo &gt; Apenas admins",
+    "crumbs": [
+      "Grupos, comunidades e canais",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Grupos</span>"
+    ]
+  },
+  {
+    "objectID": "grupos/grupos.html#mencionar-alguém",
+    "href": "grupos/grupos.html#mencionar-alguém",
+    "title": "10  Grupos",
+    "section": "10.4 Mencionar alguém",
+    "text": "10.4 Mencionar alguém\nEm um grupo, escreva @ seguido do nome do participante e escolha na lista. A pessoa recebe um aviso de que foi mencionada, mesmo com o grupo silenciado.",
+    "crumbs": [
+      "Grupos, comunidades e canais",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Grupos</span>"
+    ]
+  },
+  {
+    "objectID": "grupos/grupos.html#sair-de-um-grupo",
+    "href": "grupos/grupos.html#sair-de-um-grupo",
+    "title": "10  Grupos",
+    "section": "10.5 Sair de um grupo",
+    "text": "10.5 Sair de um grupo\n\nAbra os dados do grupo.\nRole até o final e clique em Sair do grupo.\nConfirme.\n\nO grupo deixa de mandar mensagens para você. Para tirá-lo da lista, use em seguida Apagar grupo.\n\n\n\n\n\n\nDicaQuem pode colocar você em grupos\n\n\n\nPara evitar ser incluído em grupos por desconhecidos, ajuste a opção Grupos na tela de privacidade (Capítulo 16).",
+    "crumbs": [
+      "Grupos, comunidades e canais",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Grupos</span>"
+    ]
+  },
+  {
+    "objectID": "grupos/comunidades.html",
+    "href": "grupos/comunidades.html",
+    "title": "11  Comunidades",
+    "section": "",
+    "text": "11.1 Diferença entre grupo e comunidade\nUma comunidade reúne vários grupos ligados a um mesmo assunto, como os grupos de uma escola, de um condomínio ou de uma igreja. Ela tem um grupo de avisos, onde só os administradores escrevem e todos os membros recebem as mensagens.\nClique em Comunidades, na barra lateral, para ver as comunidades das quais você participa (Figura 11.1).",
+    "crumbs": [
+      "Grupos, comunidades e canais",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Comunidades</span>"
+    ]
+  },
+  {
+    "objectID": "grupos/comunidades.html#diferença-entre-grupo-e-comunidade",
+    "href": "grupos/comunidades.html#diferença-entre-grupo-e-comunidade",
+    "title": "11  Comunidades",
+    "section": "",
+    "text": "Grupos e comunidades\n\n\n\n\n\n\n\n\nGrupo\nComunidade\n\n\n\n\nO que é\nUma conversa com várias pessoas\nUm conjunto de grupos relacionados\n\n\nAvisos para todos\nMensagem comum no grupo\nGrupo de avisos, onde só admins escrevem\n\n\nTamanho\nAté 1.024 participantes\nVários grupos, com milhares de membros\n\n\nExemplo\nGrupo da família\nComunidade da escola, com um grupo por turma",
+    "crumbs": [
+      "Grupos, comunidades e canais",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Comunidades</span>"
+    ]
+  },
+  {
+    "objectID": "grupos/comunidades.html#criar-uma-comunidade",
+    "href": "grupos/comunidades.html#criar-uma-comunidade",
+    "title": "11  Comunidades",
+    "section": "11.2 Criar uma comunidade",
+    "text": "11.2 Criar uma comunidade\n\nClique em Comunidades, na barra lateral, e depois no + do alto, ou use Nova conversa &gt; Nova comunidade.\nClique em Começar.\nEscreva o nome e a descrição da comunidade e escolha uma foto.\nClique na seta verde.\nCrie grupos novos ou adicione grupos que você já administra.\nClique no botão de confirmação.",
+    "crumbs": [
+      "Grupos, comunidades e canais",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Comunidades</span>"
+    ]
+  },
+  {
+    "objectID": "grupos/comunidades.html#participar-de-uma-comunidade",
+    "href": "grupos/comunidades.html#participar-de-uma-comunidade",
+    "title": "11  Comunidades",
+    "section": "11.3 Participar de uma comunidade",
+    "text": "11.3 Participar de uma comunidade\nNormalmente você entra em uma comunidade por um link de convite enviado pelo administrador. Ao abrir o link, clique em Entrar na comunidade. Dentro dela, escolha de quais grupos quer participar; o grupo de avisos é incluído automaticamente.",
+    "crumbs": [
+      "Grupos, comunidades e canais",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Comunidades</span>"
+    ]
+  },
+  {
+    "objectID": "grupos/canais.html",
+    "href": "grupos/canais.html",
+    "title": "12  Canais",
+    "section": "",
+    "text": "12.1 Encontrar e seguir um canal\nCanais são perfis que publicam novidades para muitas pessoas ao mesmo tempo, como jornais, órgãos públicos, times, artistas e escolas. Diferente de um grupo, só o dono do canal publica; os seguidores leem e podem reagir com emojis.\nNinguém no canal vê o seu número de telefone, e o dono do canal não sabe quem você é.\nClique em Canais, na barra lateral, para abrir a seção da Figura 12.1.",
+    "crumbs": [
+      "Grupos, comunidades e canais",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Canais</span>"
+    ]
+  },
+  {
+    "objectID": "grupos/canais.html#encontrar-e-seguir-um-canal",
+    "href": "grupos/canais.html#encontrar-e-seguir-um-canal",
+    "title": "12  Canais",
+    "section": "",
+    "text": "Clique em Canais, na barra lateral.\nVeja as sugestões em Encontrar canais para seguir ou clique em Descobrir mais para ver o diretório completo, separado por país e categoria.\nUse o campo Pesquisar para procurar um canal pelo nome.\nClique em Seguir ao lado do canal.",
+    "crumbs": [
+      "Grupos, comunidades e canais",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Canais</span>"
+    ]
+  },
+  {
+    "objectID": "grupos/canais.html#deixar-de-seguir",
+    "href": "grupos/canais.html#deixar-de-seguir",
+    "title": "12  Canais",
+    "section": "12.2 Deixar de seguir",
+    "text": "12.2 Deixar de seguir\n\nAbra o canal.\nClique no nome do canal, no cabeçalho.\nClique em Deixar de seguir.",
+    "crumbs": [
+      "Grupos, comunidades e canais",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Canais</span>"
+    ]
+  },
+  {
+    "objectID": "grupos/canais.html#criar-um-canal",
+    "href": "grupos/canais.html#criar-um-canal",
+    "title": "12  Canais",
+    "section": "12.3 Criar um canal",
+    "text": "12.3 Criar um canal\n\nClique em Criar canal, no final da lista, ou no + do alto.\nEscreva o nome, a descrição e escolha uma imagem.\nClique em Criar canal. Agora você pode publicar textos, fotos, vídeos e enquetes para os seus seguidores.\n\n\n\n\n\n\n\nNotaCanais oficiais\n\n\n\nMuitos órgãos públicos têm canais oficiais com selo de verificação ao lado do nome. Prefira esses canais para se informar, em vez de mensagens encaminhadas sem origem.",
+    "crumbs": [
+      "Grupos, comunidades e canais",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Canais</span>"
+    ]
+  },
+  {
+    "objectID": "status/status.html",
+    "href": "status/status.html",
+    "title": "13  Status",
+    "section": "",
+    "text": "13.1 Ver o status dos contatos\nO status é um espaço para compartilhar fotos, vídeos e textos que desaparecem depois de 24 horas. Ele não fica em nenhuma conversa: os seus contatos veem as publicações na seção Status.\nClique em Status, na barra lateral, para ver a tela da Figura 13.1. No alto fica Meu status; abaixo, as atualizações recentes dos seus contatos.\nUm anel verde em volta da foto indica que há status ainda não visto.\nEnquanto vê um status, é possível responder com uma mensagem, que chega na conversa com a pessoa, ou reagir com um emoji.",
+    "crumbs": [
+      "Status e ligações",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Status</span>"
+    ]
+  },
+  {
+    "objectID": "status/status.html#ver-o-status-dos-contatos",
+    "href": "status/status.html#ver-o-status-dos-contatos",
+    "title": "13  Status",
+    "section": "",
+    "text": "Clique em Status, na barra lateral.\nClique no nome de um contato. As publicações aparecem uma depois da outra.\nClique nas laterais da tela para avançar ou voltar. Pressione Esc para sair.",
+    "crumbs": [
+      "Status e ligações",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Status</span>"
+    ]
+  },
+  {
+    "objectID": "status/status.html#publicar-um-status-de-texto",
+    "href": "status/status.html#publicar-um-status-de-texto",
+    "title": "13  Status",
+    "section": "13.2 Publicar um status de texto",
+    "text": "13.2 Publicar um status de texto\n\nClique em Status e depois no +, no alto (Figura 13.2).\nEscolha Texto.\nEscreva a mensagem (Figura 13.3). Os botões do alto, à direita, permitem:\n\ninserir emojis;\ntrocar a fonte das letras (Aa);\ntrocar a cor de fundo (paleta).\n\nClique no botão de envio, no canto de baixo.\n\n\n\n\n\n\n\nFigura 13.2: Menu de novo status, com as opções Fotos e vídeos e Texto.\n\n\n\n\n\n\n\n\n\nFigura 13.3: Editor de status de texto, com os botões de emoji, fonte e cor no alto.\n\n\n\nPara desistir, clique no X, no canto de cima à esquerda; nada é publicado.",
+    "crumbs": [
+      "Status e ligações",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Status</span>"
+    ]
+  },
+  {
+    "objectID": "status/status.html#publicar-uma-foto-ou-vídeo",
+    "href": "status/status.html#publicar-uma-foto-ou-vídeo",
+    "title": "13  Status",
+    "section": "13.3 Publicar uma foto ou vídeo",
+    "text": "13.3 Publicar uma foto ou vídeo\n\nClique em Status &gt; + &gt; Fotos e vídeos.\nEscolha a imagem ou o vídeo no computador.\nEscreva uma legenda, se quiser.\nClique em enviar.",
+    "crumbs": [
+      "Status e ligações",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Status</span>"
+    ]
+  },
+  {
+    "objectID": "status/status.html#quem-vê-o-seu-status",
+    "href": "status/status.html#quem-vê-o-seu-status",
+    "title": "13  Status",
+    "section": "13.4 Quem vê o seu status",
+    "text": "13.4 Quem vê o seu status\nO botão no canto de baixo do editor (Status (contatos)) mostra para quem a publicação vai. As opções de privacidade do status são:\n\nMeus contatos: todos os contatos salvos;\nMeus contatos, exceto…: todos, menos as pessoas escolhidas;\nCompartilhar somente com…: apenas as pessoas escolhidas.\n\nA mesma configuração fica em Configurações &gt; Privacidade &gt; Status (Capítulo 16).",
+    "crumbs": [
+      "Status e ligações",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Status</span>"
+    ]
+  },
+  {
+    "objectID": "status/status.html#ver-quem-viu-o-seu-status",
+    "href": "status/status.html#ver-quem-viu-o-seu-status",
+    "title": "13  Status",
+    "section": "13.5 Ver quem viu o seu status",
+    "text": "13.5 Ver quem viu o seu status\nAbra o seu próprio status e clique no ícone de olho, embaixo. A lista mostra quem viu cada publicação. Para apagar uma publicação antes das 24 horas, use o menu da publicação e escolha Apagar.",
+    "crumbs": [
+      "Status e ligações",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Status</span>"
+    ]
+  },
+  {
+    "objectID": "status/ligacoes.html",
+    "href": "status/ligacoes.html",
+    "title": "14  Ligações de voz e vídeo",
+    "section": "",
+    "text": "14.1 Fazer uma ligação\nO WhatsApp faz ligações pela internet, sem custo de minutos da operadora. As chamadas podem ser só de voz ou com vídeo, com uma pessoa ou com até 32 pessoas.\nClique em Ligações, na barra lateral, para abrir a tela da Figura 14.1. À esquerda fica o histórico de chamadas; à direita, os botões para iniciar uma nova ligação.\nHá dois caminhos:\nPela conversa\nPela seção Ligações\nNa primeira ligação, o navegador pede permissão para usar o microfone e a câmera. Clique em Permitir.",
+    "crumbs": [
+      "Status e ligações",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Ligações de voz e vídeo</span>"
+    ]
+  },
+  {
+    "objectID": "status/ligacoes.html#fazer-uma-ligação",
+    "href": "status/ligacoes.html#fazer-uma-ligação",
+    "title": "14  Ligações de voz e vídeo",
+    "section": "",
+    "text": "Abra a conversa com a pessoa.\nClique no ícone de câmera com setinha, no cabeçalho.\nEscolha Ligação de voz ou Ligação de vídeo.\n\n\n\nClique em Ligações, na barra lateral.\nClique em Iniciar ligação.\nEscolha uma ou mais pessoas e o tipo de ligação.",
+    "crumbs": [
+      "Status e ligações",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Ligações de voz e vídeo</span>"
+    ]
+  },
+  {
+    "objectID": "status/ligacoes.html#durante-a-ligação",
+    "href": "status/ligacoes.html#durante-a-ligação",
+    "title": "14  Ligações de voz e vídeo",
+    "section": "14.2 Durante a ligação",
+    "text": "14.2 Durante a ligação\nOs botões na parte de baixo da janela da chamada permitem:\n\nligar e desligar o microfone (modo mudo);\nligar e desligar a câmera;\ncompartilhar a tela do computador;\nreagir com emojis e levantar a mão;\nadicionar pessoas à chamada;\nencerrar a ligação, no botão vermelho.",
+    "crumbs": [
+      "Status e ligações",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Ligações de voz e vídeo</span>"
+    ]
+  },
+  {
+    "objectID": "status/ligacoes.html#outras-opções",
+    "href": "status/ligacoes.html#outras-opções",
+    "title": "14  Ligações de voz e vídeo",
+    "section": "14.3 Outras opções",
+    "text": "14.3 Outras opções\n\nOpções da seção Ligações\n\n\n\n\n\n\nBotão\nO que faz\n\n\n\n\nNovo link de ligação\nCria um link para uma chamada; quem receber o link entra clicando nele\n\n\nLigar para um telefone\nAbre um teclado numérico para ligar para um número que use WhatsApp\n\n\nTelefone com +, no alto\nInicia uma nova ligação escolhendo os contatos",
+    "crumbs": [
+      "Status e ligações",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Ligações de voz e vídeo</span>"
+    ]
+  },
+  {
+    "objectID": "status/ligacoes.html#atender-uma-ligação",
+    "href": "status/ligacoes.html#atender-uma-ligação",
+    "title": "14  Ligações de voz e vídeo",
+    "section": "14.4 Atender uma ligação",
+    "text": "14.4 Atender uma ligação\nQuando alguém liga, aparece um aviso na tela com os botões Aceitar e Recusar. Para isso funcionar com o navegador em segundo plano, as notificações precisam estar ativadas (Capítulo 15).\n\n\n\n\n\n\nDicaInternet fraca\n\n\n\nSe a imagem travar, desligue a câmera e continue só com a voz. A ligação de voz usa bem menos internet.",
+    "crumbs": [
+      "Status e ligações",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Ligações de voz e vídeo</span>"
+    ]
+  },
+  {
+    "objectID": "configuracoes/configuracoes.html",
+    "href": "configuracoes/configuracoes.html",
+    "title": "15  Configurações",
+    "section": "",
+    "text": "15.1 Abrir as configurações\nAs configurações reúnem os ajustes da conta, da aparência, das notificações e da privacidade.\nClique na sua foto, no canto de baixo da barra lateral (ícone Você). Aparece a tela da Figura 15.1.\nNo celular: três pontinhos &gt; Configurações (Android) ou a aba Configurações (iPhone).\nRolando a tela, aparecem as demais opções (Figura 15.2).\nO campo Pesquisar, no alto, encontra uma configuração pelo nome.",
+    "crumbs": [
+      "Configurações e segurança",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Configurações</span>"
+    ]
+  },
+  {
+    "objectID": "configuracoes/configuracoes.html#abrir-as-configurações",
+    "href": "configuracoes/configuracoes.html#abrir-as-configurações",
+    "title": "15  Configurações",
+    "section": "",
+    "text": "Figura 15.1: Tela de configurações. A foto e o nome do perfil foram borrados.\n\n\n\n\n\n\n\n\n\n\nFigura 15.2: Parte de baixo da tela de configurações, com Atalhos do teclado, Ajuda e feedback e Desconectar.\n\n\n\n\nItens das configurações\n\n\n\n\n\n\nOpção\nO que reúne\n\n\n\n\nPerfil\nNome, foto, recado e nome de usuário (Capítulo 3)\n\n\nConta\nNotificações de segurança e dados da conta\n\n\nPrivacidade\nQuem vê suas informações, bloqueios e mensagens temporárias (Capítulo 16)\n\n\nConversas\nTema, papel de parede e configurações das conversas\n\n\nNotificações\nAvisos de mensagens, grupos, status e ligações\n\n\nPagamentos\nTransações e informações de pagamento\n\n\nAtalhos do teclado\nLista de atalhos do computador (Apêndice A)\n\n\nAjuda e feedback\nCentral de Ajuda, contato com o suporte e Política de Privacidade\n\n\nDesconectar\nSai do WhatsApp Web neste navegador",
+    "crumbs": [
+      "Configurações e segurança",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Configurações</span>"
+    ]
+  },
+  {
+    "objectID": "configuracoes/configuracoes.html#conta",
+    "href": "configuracoes/configuracoes.html#conta",
+    "title": "15  Configurações",
+    "section": "15.2 Conta",
+    "text": "15.2 Conta\nA tela Conta (Figura 15.3) traz:\n\nNotificações de segurança: avisa quando o código de segurança de um contato muda, o que acontece, por exemplo, quando ele troca de celular;\nPedir dados da conta: gera um relatório com as informações da sua conta;\nComo apagar minha conta: explica o passo a passo, que é feito no celular.\n\n\n\n\n\n\n\nFigura 15.3: Tela Conta.",
+    "crumbs": [
+      "Configurações e segurança",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Configurações</span>"
+    ]
+  },
+  {
+    "objectID": "configuracoes/configuracoes.html#conversas",
+    "href": "configuracoes/configuracoes.html#conversas",
+    "title": "15  Configurações",
+    "section": "15.3 Conversas",
+    "text": "15.3 Conversas\nA tela Conversas (Figura 15.4) ajusta a aparência e o comportamento das conversas.\n\n\n\n\n\n\nFigura 15.4: Tela de configurações de Conversas.\n\n\n\n\nConfigurações de conversas\n\n\n\n\n\n\nOpção\nO que faz\n\n\n\n\nTema\nEscolhe entre modo claro, modo escuro ou o padrão do sistema\n\n\nTema padrão das conversas\nEscolhe cores e papel de parede para todas as conversas\n\n\nQualidade da mídia\nDefine se fotos e vídeos são enviados em qualidade padrão ou HD\n\n\nBaixar mídia automaticamente\nEscolhe quais tipos de arquivo são baixados sem precisar clicar\n\n\nVerificação ortográfica\nSublinha palavras escritas errado\n\n\nSubstituição de texto por emoji\nTroca combinações como :) pelo emoji correspondente\n\n\nEnviar com Enter\nFaz a tecla Enter enviar a mensagem\n\n\n\n\n15.3.1 Modo escuro\nO modo escuro deixa o fundo preto e as letras claras, o que cansa menos a vista à noite. Em Conversas &gt; Tema, escolha Claro, Escuro ou Padrão do sistema e clique em OK.\n\n\n15.3.2 Tema e papel de parede\n\nEm Conversas, clique em Tema padrão das conversas (Figura 15.5).\nClique em um dos Temas para ver a prévia à direita. Ver tudo mostra mais opções.\nEm Personalizar, troque separadamente a cor do Balão de conversa e o Papel de parede.\nA chave Doodles do WhatsApp liga ou desliga os desenhos discretos do fundo.\n\n\n\n\n\n\n\nFigura 15.5: Tela Tema das conversas, com a prévia à direita.\n\n\n\nPara mudar o tema de uma única conversa, use Tema da conversa no menu daquela conversa (Capítulo 8).\n\n\n15.3.3 Tamanho da letra\nNo WhatsApp Web, a letra acompanha o zoom do navegador: Ctrl + + aumenta, Ctrl + - diminui e Ctrl + 0 volta ao normal.\nNo celular Android, o caminho é Configurações &gt; Conversas &gt; Tamanho da fonte, com as opções pequena, média e grande. No iPhone, o tamanho segue o ajuste de texto do próprio aparelho. Para quem tem dificuldade de leitura, a letra grande é a mais recomendada (Costa e Epaminondas 2026).",
+    "crumbs": [
+      "Configurações e segurança",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Configurações</span>"
+    ]
+  },
+  {
+    "objectID": "configuracoes/configuracoes.html#notificações",
+    "href": "configuracoes/configuracoes.html#notificações",
+    "title": "15  Configurações",
+    "section": "15.4 Notificações",
+    "text": "15.4 Notificações\nA tela Notificações (Figura 15.6) controla os avisos que aparecem no computador.\n\n\n\n\n\n\nFigura 15.6: Tela de Notificações.\n\n\n\n\nMensagens, Grupos, Atualizações de status e Ligações: ligam ou desligam os avisos de cada tipo;\nMostrar prévia: exibe o começo da mensagem no aviso;\nReproduzir sons ao enviar mensagens: toca um som a cada envio;\nSincronização em segundo plano: mantém as mensagens atualizadas mesmo com a aba fechada;\nEnviar notificação de teste: confere se os avisos estão funcionando.\n\n\n\n\n\n\n\nNotaPermissão do navegador\n\n\n\nPara receber avisos, o navegador também precisa permitir notificações do site web.whatsapp.com. Se aparecer o aviso As notificações estão desativadas, clique em Ativar e depois em Permitir.\n\n\n\n\n\n\nCosta, Conceição de Maria Cardoso, e Jocênio Marquios Epaminondas. 2026. Explorando o mundo digital: guia prático WhatsApp para pessoas idosas. Editora IFB.",
+    "crumbs": [
+      "Configurações e segurança",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Configurações</span>"
+    ]
+  },
+  {
+    "objectID": "configuracoes/privacidade.html",
+    "href": "configuracoes/privacidade.html",
+    "title": "16  Privacidade",
+    "section": "",
+    "text": "16.1 Abrir a tela de privacidade\nPrivacidade é o direito de decidir quem vê as suas informações. No WhatsApp, você escolhe quem pode ver a sua foto, o seu recado, quando você esteve on-line e se você leu uma mensagem.\nClique na sua foto (ícone Você) e depois em Privacidade. Aparece a tela da Figura 16.1.",
+    "crumbs": [
+      "Configurações e segurança",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Privacidade</span>"
+    ]
+  },
+  {
+    "objectID": "configuracoes/privacidade.html#abrir-a-tela-de-privacidade",
+    "href": "configuracoes/privacidade.html#abrir-a-tela-de-privacidade",
+    "title": "16  Privacidade",
+    "section": "",
+    "text": "Figura 16.1: Tela Privacidade, parte de cima.",
+    "crumbs": [
+      "Configurações e segurança",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Privacidade</span>"
+    ]
+  },
+  {
+    "objectID": "configuracoes/privacidade.html#quem-pode-ver-meus-dados-pessoais",
+    "href": "configuracoes/privacidade.html#quem-pode-ver-meus-dados-pessoais",
+    "title": "16  Privacidade",
+    "section": "16.2 Quem pode ver meus dados pessoais",
+    "text": "16.2 Quem pode ver meus dados pessoais\nAs quatro primeiras opções seguem a mesma lógica. Clique na opção e escolha uma das respostas:\n\nTodos: qualquer pessoa que tenha o seu número;\nMeus contatos: só quem está salvo na sua agenda;\nMeus contatos, exceto…: os contatos, menos as pessoas escolhidas;\nNinguém: ninguém vê.\n\n\nDados pessoais e o que cada opção protege\n\n\n\n\n\n\nOpção\nO que protege\n\n\n\n\nVisto por último e online\nO horário em que você usou o WhatsApp pela última vez e o aviso “online”\n\n\nFoto do perfil\nA sua foto\n\n\nRecado\nA frase do seu perfil\n\n\nStatus\nAs suas publicações de status\n\n\n\n\n16.2.1 Visto por último e online\n\nEm Privacidade, clique em Visto por último e online (Figura 16.2).\nEm Quem pode ver meu “visto por último”, escolha uma das quatro opções.\nEm Quem pode ver quando estou online, escolha Todos ou Mesmo que “visto por último”.\n\n\n\n\n\n\n\nFigura 16.2: Tela Visto por último e online.\n\n\n\nSe você esconder o seu “visto por último”, também deixa de ver o dos outros.",
+    "crumbs": [
+      "Configurações e segurança",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Privacidade</span>"
+    ]
+  },
+  {
+    "objectID": "configuracoes/privacidade.html#confirmações-de-leitura",
+    "href": "configuracoes/privacidade.html#confirmações-de-leitura",
+    "title": "16  Privacidade",
+    "section": "16.3 Confirmações de leitura",
+    "text": "16.3 Confirmações de leitura\nA chave Confirmações de leitura controla os tiques azuis (Capítulo 5).\n\nLigada: as pessoas sabem quando você leu a mensagem, e você sabe quando elas leram as suas.\nDesligada: ninguém vê os tiques azuis das suas leituras, e você também não vê os dos outros.\n\nEm grupos, as confirmações de leitura continuam aparecendo sempre.",
+    "crumbs": [
+      "Configurações e segurança",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Privacidade</span>"
+    ]
+  },
+  {
+    "objectID": "configuracoes/privacidade.html#mais-opções-de-privacidade",
+    "href": "configuracoes/privacidade.html#mais-opções-de-privacidade",
+    "title": "16  Privacidade",
+    "section": "16.4 Mais opções de privacidade",
+    "text": "16.4 Mais opções de privacidade\nRolando a tela, aparecem as demais opções (Figura 16.3).\n\n\n\n\n\n\nFigura 16.3: Tela Privacidade, parte de baixo, com as configurações avançadas.\n\n\n\n\nOutras opções de privacidade\n\n\n\n\n\n\nOpção\nO que faz\n\n\n\n\nDuração padrão\nLiga as mensagens temporárias em todas as conversas novas\n\n\nGrupos\nDefine quem pode adicionar você a grupos: Todos, Meus contatos ou Meus contatos, exceto…\n\n\nContatos bloqueados\nMostra a lista de bloqueados e permite bloquear ou desbloquear\n\n\nBloqueio do app\nPede uma senha para abrir o WhatsApp Web neste computador\n\n\nBloquear mensagens de contas desconhecidas\nBarra mensagens em massa de números que você não conhece\n\n\nProteger endereço IP nas ligações\nDificulta descobrir a sua localização pelas chamadas\n\n\nDesativar prévia de links\nImpede que o WhatsApp mostre a prévia de sites nas conversas",
+    "crumbs": [
+      "Configurações e segurança",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Privacidade</span>"
+    ]
+  },
+  {
+    "objectID": "configuracoes/privacidade.html#bloquear-um-contato",
+    "href": "configuracoes/privacidade.html#bloquear-um-contato",
+    "title": "16  Privacidade",
+    "section": "16.5 Bloquear um contato",
+    "text": "16.5 Bloquear um contato\nQuem está bloqueado não consegue mandar mensagens, ligar nem ver as suas atualizações.\nPela conversa\n\nAbra a conversa e clique no nome do contato, no cabeçalho.\nRole o painel até o final e clique em Bloquear.\nConfirme.\n\nPela privacidade\n\nEm Privacidade, clique em Contatos bloqueados.\nClique em Adicionar contato bloqueado.\nEscolha o contato.\n\nPara desbloquear, abra Contatos bloqueados, clique no contato e escolha Desbloquear.",
+    "crumbs": [
+      "Configurações e segurança",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Privacidade</span>"
+    ]
+  },
+  {
+    "objectID": "configuracoes/privacidade.html#denunciar",
+    "href": "configuracoes/privacidade.html#denunciar",
+    "title": "16  Privacidade",
+    "section": "16.6 Denunciar",
+    "text": "16.6 Denunciar\nMensagens de golpe, ofensas ou spam podem ser denunciadas. Nos dados do contato ou do grupo, clique em Denunciar. O WhatsApp recebe as últimas mensagens da conversa para análise. Também é possível bloquear o contato no mesmo passo.",
+    "crumbs": [
+      "Configurações e segurança",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Privacidade</span>"
+    ]
+  },
+  {
+    "objectID": "configuracoes/seguranca.html",
+    "href": "configuracoes/seguranca.html",
+    "title": "17  Segurança da conta",
+    "section": "",
+    "text": "17.1 Verificação em duas etapas\nAs conversas do WhatsApp são protegidas por criptografia de ponta a ponta: só quem envia e quem recebe consegue ler as mensagens. Mesmo assim, a conta pode ser roubada se alguém conseguir o seu código de verificação ou se o seu celular ficar desprotegido. Este capítulo reúne as principais defesas.\nA verificação em duas etapas cria uma senha de 6 números (PIN) que é pedida sempre que alguém tenta registrar o seu número em outro celular. Mesmo que um golpista consiga o código do SMS, ele não entra sem o PIN. É uma das proteções mais importantes (Costa e Epaminondas 2026).\nEla é configurada no celular:",
+    "crumbs": [
+      "Configurações e segurança",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Segurança da conta</span>"
+    ]
+  },
+  {
+    "objectID": "configuracoes/seguranca.html#verificação-em-duas-etapas",
+    "href": "configuracoes/seguranca.html#verificação-em-duas-etapas",
+    "title": "17  Segurança da conta",
+    "section": "",
+    "text": "Abra o WhatsApp no celular e vá em Configurações (três pontinhos &gt; Configurações no Android).\nToque em Conta &gt; Verificação em duas etapas.\nToque em Ativar.\nCrie um PIN de 6 números e repita para confirmar.\nInforme um e-mail e confirme. Ele serve para redefinir o PIN se você esquecer.\n\n\n\n\n\n\n\nImportanteGuarde o PIN\n\n\n\nEscolha um PIN fácil para você e difícil para os outros. Evite datas de nascimento e sequências como 123456. O WhatsApp pede o PIN de tempos em tempos para você não esquecer.",
+    "crumbs": [
+      "Configurações e segurança",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Segurança da conta</span>"
+    ]
+  },
+  {
+    "objectID": "configuracoes/seguranca.html#chaves-de-acesso",
+    "href": "configuracoes/seguranca.html#chaves-de-acesso",
+    "title": "17  Segurança da conta",
+    "section": "17.2 Chaves de acesso",
+    "text": "17.2 Chaves de acesso\nNo celular, em Configurações &gt; Conta &gt; Chaves de acesso, é possível entrar no WhatsApp usando a digital, o rosto ou o bloqueio de tela do aparelho, em vez do código por SMS.",
+    "crumbs": [
+      "Configurações e segurança",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Segurança da conta</span>"
+    ]
+  },
+  {
+    "objectID": "configuracoes/seguranca.html#bloqueio-do-app",
+    "href": "configuracoes/seguranca.html#bloqueio-do-app",
+    "title": "17  Segurança da conta",
+    "section": "17.3 Bloqueio do app",
+    "text": "17.3 Bloqueio do app\nO bloqueio do app pede uma senha para abrir o WhatsApp, protegendo as conversas de quem usa o mesmo aparelho.\n\nNo computador: menu principal (três pontinhos) &gt; Bloqueio do app, ou Privacidade &gt; Bloqueio do app. Crie uma senha. Para trancar na hora, use o mesmo menu e escolha Bloquear.\nNo celular: Configurações &gt; Privacidade &gt; Bloqueio do app, usando a digital ou o rosto.",
+    "crumbs": [
+      "Configurações e segurança",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Segurança da conta</span>"
+    ]
+  },
+  {
+    "objectID": "configuracoes/seguranca.html#aparelhos-conectados",
+    "href": "configuracoes/seguranca.html#aparelhos-conectados",
+    "title": "17  Segurança da conta",
+    "section": "17.4 Aparelhos conectados",
+    "text": "17.4 Aparelhos conectados\nNo celular, Aparelhos conectados mostra todos os computadores e tablets ligados à sua conta, com a data do último uso. Confira essa lista de vez em quando. Se aparecer um aparelho que você não reconhece, toque nele e escolha Desconectar.",
+    "crumbs": [
+      "Configurações e segurança",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Segurança da conta</span>"
+    ]
+  },
+  {
+    "objectID": "configuracoes/seguranca.html#como-se-proteger-de-golpes",
+    "href": "configuracoes/seguranca.html#como-se-proteger-de-golpes",
+    "title": "17  Segurança da conta",
+    "section": "17.5 Como se proteger de golpes",
+    "text": "17.5 Como se proteger de golpes\n\nGolpes comuns e como agir\n\n\n\n\n\n\nSituação\nComo agir\n\n\n\n\nAlguém pede o código de 6 números que chegou por SMS\nNunca envie. Nenhuma empresa séria pede esse código\n\n\nUm “parente” com número novo pede dinheiro com urgência\nLigue para o número antigo da pessoa ou faça uma pergunta que só ela saberia\n\n\nMensagem com prêmio, promoção ou link estranho\nNão clique. Procure a informação no site oficial da empresa\n\n\nPedido de Pix para pagar conta ou dívida inesperada\nConfirme por outro meio antes de pagar\n\n\nGrupo desconhecido com ofertas de investimento\nSaia do grupo, denuncie e ajuste quem pode adicionar você a grupos\n\n\n\n\n\n\n\n\n\nAvisoNa dúvida, desconfie\n\n\n\nGolpistas usam pressa e emoção para enganar. Antes de enviar dinheiro ou dados, pare, desligue e confirme com a pessoa por uma ligação ou pessoalmente.",
+    "crumbs": [
+      "Configurações e segurança",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Segurança da conta</span>"
+    ]
+  },
+  {
+    "objectID": "configuracoes/seguranca.html#se-a-sua-conta-for-roubada",
+    "href": "configuracoes/seguranca.html#se-a-sua-conta-for-roubada",
+    "title": "17  Segurança da conta",
+    "section": "17.6 Se a sua conta for roubada",
+    "text": "17.6 Se a sua conta for roubada\n\nReinstale ou abra o WhatsApp no seu celular e entre com o seu número. Ao confirmar o código do SMS, o invasor é desconectado.\nSe o WhatsApp pedir o PIN da verificação em duas etapas e você não o criou, aguarde o prazo indicado e tente de novo.\nAvise os seus contatos por outro meio de que a conta foi invadida.\nEscreva para o suporte pela Central de Ajuda do WhatsApp, informando o número com o código do país.\nDepois de recuperar a conta, ative a verificação em duas etapas.\n\n\n\n\n\nCosta, Conceição de Maria Cardoso, e Jocênio Marquios Epaminondas. 2026. Explorando o mundo digital: guia prático WhatsApp para pessoas idosas. Editora IFB.",
+    "crumbs": [
+      "Configurações e segurança",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Segurança da conta</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "Referências",
+    "section": "",
+    "text": "Costa, Conceição de Maria Cardoso, and Jocênio Marquios Epaminondas.\n2026. Explorando o Mundo Digital: Guia Prático WhatsApp Para Pessoas\nIdosas. Editora IFB.",
+    "crumbs": [
+      "Referências"
+    ]
+  },
+  {
+    "objectID": "apendices/atalhos.html",
+    "href": "apendices/atalhos.html",
+    "title": "Apêndice A — Atalhos do teclado",
+    "section": "",
+    "text": "No WhatsApp Web, várias ações podem ser feitas pelo teclado. A lista completa aparece em Configurações &gt; Atalhos do teclado (Figura A.1).\n\n\n\n\n\n\nFigura A.1: Janela Atalhos do teclado.\n\n\n\n\nAtalhos do WhatsApp Web no Windows\n\n\n\n\n\n\nAção\nAtalho\n\n\n\n\nNova conversa\nCtrl + Alt + N\n\n\nNovo grupo\nCtrl + Alt + Shift + N\n\n\nPesquisar\nCtrl + Alt + /\n\n\nPesquisar na conversa\nCtrl + Shift + F\n\n\nPróxima conversa\nCtrl + Alt + Shift + ]\n\n\nConversa anterior\nCtrl + Alt + Shift + [\n\n\nFechar conversa\nEsc\n\n\nMarcar como não lida\nCtrl + Alt + Shift + U\n\n\nSilenciar\nCtrl + Alt + Shift + M\n\n\nArquivar conversa\nCtrl + Alt + Shift + E\n\n\nFixar conversa\nCtrl + Alt + Shift + P\n\n\nAdicionar conversa à lista\nCtrl + Alt + Shift + L\n\n\nPerfil e recado\nCtrl + Alt + P\n\n\nConfigurações\nCtrl + Alt + ,\n\n\nPainel de emojis\nCtrl + Alt + E\n\n\nPainel de GIFs\nCtrl + Alt + G\n\n\nAumentar a velocidade do áudio selecionado\nShift + .\n\n\nDiminuir a velocidade do áudio selecionado\nShift + ,\n\n\nPular linha sem enviar\nShift + Enter\n\n\n\nNo Mac, troque Ctrl por Cmd e Alt por Option.",
+    "crumbs": [
+      "Apêndices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Atalhos do teclado</span>"
+    ]
+  },
+  {
+    "objectID": "apendices/glossario.html",
+    "href": "apendices/glossario.html",
+    "title": "Apêndice B — Glossário",
+    "section": "",
+    "text": "Administrador (admin)\n\nParticipante que pode gerenciar um grupo ou comunidade: adicionar e remover pessoas e mudar as configurações.\n\nArquivar\n\nEsconder uma conversa da lista principal sem apagá-la.\n\nÁudio ou mensagem de voz\n\nMensagem gravada com a voz, enviada pelo botão do microfone.\n\nCanal\n\nPerfil que publica novidades para muitos seguidores; só o dono publica.\n\nComunidade\n\nConjunto de grupos ligados a um mesmo assunto, com um grupo de avisos.\n\nCriptografia de ponta a ponta\n\nProteção que faz com que só quem envia e quem recebe consiga ler a mensagem.\n\nEmoji\n\nPequena figura que expressa um sentimento ou uma ideia.\n\nEncaminhar\n\nReenviar uma mensagem recebida para outra conversa.\n\nEnquete\n\nPergunta com opções de resposta para os participantes votarem.\n\nFigurinha (sticker)\n\nImagem maior que um emoji, enviada sozinha, sem legenda.\n\nGIF\n\nPequena animação sem som.\n\nLink\n\nEndereço de um site, que abre ao ser clicado.\n\nMensagens temporárias\n\nMensagens que somem sozinhas depois de um prazo escolhido.\n\nPIN\n\nSenha de 6 números da verificação em duas etapas.\n\nQR code\n\nCódigo quadrado lido pela câmera do celular; usado para entrar no WhatsApp Web.\n\nRecado\n\nFrase curta que aparece no perfil.\n\nStatus\n\nFotos, vídeos e textos que ficam visíveis para os contatos por 24 horas.\n\nTiques\n\nSinais ao lado do horário da mensagem que mostram se ela foi enviada, entregue e lida.\n\nVerificação em duas etapas\n\nProteção extra que pede um PIN ao registrar o número em outro celular.\n\nVisto por último\n\nHorário em que a pessoa usou o WhatsApp pela última vez.\n\nWhatsApp Web\n\nVersão do WhatsApp que funciona no navegador do computador.",
+    "crumbs": [
+      "Apêndices",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Glossário</span>"
+    ]
+  }
+]
