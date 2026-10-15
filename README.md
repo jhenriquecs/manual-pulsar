@@ -1,4 +1,4 @@
-# 📱 Oficina: Construindo o Manual do WhatsApp do Zero com Quarto
+# 📱 Oficina: Construindo o Manual do WhatsApp do Zero com Quarto e GitHub Pages
 
 Guia rápido com as **principais informações**, **comandos de terminal** e **símbolos (tags)** utilizados durante a oficina prática de criação do livro digital.
 
